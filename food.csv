@@ -1,4 +1,4 @@
-Date,Name,Type,Quantity,Units,Calories,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+date,name,type,quantity,units,calories,fat,protein,carb,saturated_fat,sugar,fiber,cholesterol,sodium
 2018-08-29,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
 2018-08-29,"Fish Ball, Asian Style, Cooked",Breakfast,153.0,Grams,116,1.22,18.82,6.88,0.31,2.14,0.0,110.16,994.5
 2018-08-29,"Green Beans, Cooked",Breakfast,50.0,Grams,18,0.14,0.95,3.94,0.3,1.82,1.6,0.0,0.5
