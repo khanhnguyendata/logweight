@@ -1,534 +1,534 @@
 Date,Name,Type,Quantity,Units,Calories,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
-2018-11-03,Bun Thit Nuong,Breakfast,1.0,Serving,500,17.0,22.0,33.0,3.0,0.0,,36.0,900.0
-2018-11-02,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-11-02,Boiled Water Spinach,Breakfast,50.0,Grams,8,0.35,0.85,0.2,0.27,0.1,1.15,,23.5
-2018-11-02,"Fish Ball, Asian Style, Cooked",Breakfast,100.0,Grams,76,0.8,12.3,4.5,0.2,1.4,0.0,72.0,650.0
-2018-11-02,"Spinach, Baby, Boiled in Unsalted Water",Breakfast,200.0,Grams,40,2.0,6.0,0.0,0.0,0.0,2.0,0.0,84.0
-2018-11-02,"Nuts, Peanuts, Dry Roasted",Breakfast,10.0,Grams,57,5.0,2.5,1.79,0.71,0.71,0.71,0.0,67.86
-2018-11-02,"Chinese, Dish, Dumpling, Steamed, Shumai",Breakfast,333.0,Grams,374,9.51,25.37,47.57,3.17,0.0,3.17,82.46,1303.46
-2018-11-02,"Egg, Fried, Large",Lunch,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-11-02,Boiled Water Spinach,Lunch,50.0,Grams,8,0.35,0.85,0.2,0.27,0.1,1.15,,23.5
-2018-11-02,"Fish Ball, Asian Style, Cooked",Lunch,100.0,Grams,76,0.8,12.3,4.5,0.2,1.4,0.0,72.0,650.0
-2018-11-02,"Spinach, Baby, Boiled in Unsalted Water",Lunch,200.0,Grams,40,2.0,6.0,0.0,0.0,0.0,2.0,0.0,84.0
-2018-11-02,"Chinese, Dish, Dumpling, Steamed, Shumai",Lunch,200.0,Grams,225,5.71,15.24,28.57,1.9,0.0,1.9,49.52,782.86
-2018-11-02,Fried Rice,Dinner,200.0,Grams,367,9.17,6.35,64.2,1.41,3.53,0.71,0.0,606.7
-2018-11-02,"Fish, Spanish Mackerel, Cooked",Dinner,100.0,Grams,158,6.32,23.59,0.0,1.8,0.0,0.0,73.0,66.0
-2018-11-02,"Pork Chop, Center Loin, Cooked",Dinner,100.0,Grams,209,11.6,25.61,0.0,3.51,0.0,0.0,84.0,55.0
-2018-11-02,Beer,Dinner,0.5,Liter,216,0.0,2.31,17.81,0.0,0.0,0.0,0.0,20.6
-2018-11-02,Prawn Crackers,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
-2018-11-01,"Sausage, Bratwurst, Pork, Cooked",Breakfast,165.0,Grams,549,48.15,22.64,4.7,16.48,0.0,0.0,122.1,1395.9
-2018-11-01,"Shrimp, Breaded Fried",Breakfast,2.0,Each,36,1.84,3.21,1.72,0.31,0.0,0.6,26.55,51.6
-2018-11-01,"Broccoli, Chopped, Cooked",Breakfast,80.0,Grams,28,0.33,1.9,5.74,0.6,1.11,2.64,0.0,32.8
-2018-11-01,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-11-01,"Sausage, Bratwurst, Pork, Cooked",Lunch,165.0,Grams,549,48.15,22.64,4.7,16.48,0.0,0.0,122.1,1395.9
-2018-11-01,"Shrimp, Breaded Fried",Lunch,2.0,Each,36,1.84,3.21,1.72,0.31,0.0,0.6,26.55,51.6
-2018-11-01,"Broccoli, Chopped, Cooked",Lunch,80.0,Grams,28,0.33,1.9,5.74,0.6,1.11,2.64,0.0,32.8
-2018-11-01,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-11-01,Cheese Wafer,Snacks,3.0,Servings,120,4.5,3.0,18.0,3.0,6.0,,,
-2018-11-01,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
-2018-11-01,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
-2018-11-01,Banana,Snacks,100.0,Grams,95,0.3,1.2,23.2,0.1,20.9,1.1,,1.0
-2018-10-31,"Chicken, Leg, w/ Skin, Cooked",Breakfast,202.0,Grams,469,27.19,52.44,0.0,7.51,0.0,0.0,185.84,175.74
-2018-10-31,"Lotus Root, Cooked",Breakfast,110.0,Grams,73,0.8,1.74,17.62,0.2,0.55,3.41,0.0,49.5
-2018-10-31,"Egg, Fried, Large",Breakfast,41.0,Grams,80,6.28,5.58,0.37,1.76,0.34,0.0,187.37,83.64
-2018-10-31,Chinese Wax Gourd Or Winter Melon,Breakfast,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
-2018-10-31,"Lotus Root, Cooked",Lunch,100.0,Grams,66,0.7,1.58,16.2,0.2,0.5,3.1,0.0,45.0
-2018-10-31,"Chicken, Leg, w/ Skin, Cooked",Lunch,200.0,Grams,464,26.92,51.92,0.0,7.44,0.0,0.0,184.0,174.0
-2018-10-31,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-31,Chinese Wax Gourd Or Winter Melon,Lunch,150.0,Grams,18,0.3,0.6,3.9,,,1.5,,2.7
-2018-10-31,Vietnamese Mi Hoanh Thanh (Wonton) Noodle Soup,Dinner,1.0,Serving,400,6.0,38.0,52.0,1.0,8.0,6.0,260.0,2032.0
-2018-10-31,"Banana, Medium, 7"" - 7 7/8"" Long",Snacks,126.0,Grams,112,0.42,1.37,28.78,0.14,15.41,3.28,0.0,1.26
-2018-10-31,"Nuts, Peanuts, Dry Roasted",Snacks,30.0,Grams,171,15.0,7.5,5.36,2.14,2.14,2.14,0.0,203.57
-2018-10-31,Prawn Crackers,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
-2018-10-31,Cheese Wafer,Snacks,3.0,Servings,120,4.5,3.0,18.0,3.0,6.0,,,
-2018-10-30,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-30,"Beef, Stir-Fry Strips, Untrimmed",Breakfast,203.0,Grams,272,6.9,54.81,0.0,2.3,0.0,0.0,109.62,77.14
-2018-10-30,"Green Beans, Cooked",Breakfast,84.0,Grams,29,0.24,1.59,6.62,0.5,3.5,2.69,0.0,0.84
-2018-10-30,"Cabbage, Napa, Cooked",Breakfast,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
-2018-10-30,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-30,"Beef, Stir-Fry Strips, Untrimmed",Lunch,203.0,Grams,272,6.9,54.81,0.0,2.3,0.0,0.0,109.62,77.14
-2018-10-30,"Green Beans, Cooked",Lunch,84.0,Grams,29,0.24,1.59,6.62,0.5,3.5,2.69,0.0,0.84
-2018-10-30,"Cabbage, Napa, Cooked",Lunch,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
-2018-10-30,"Nuts, Peanuts, Dry Roasted",Snacks,20.0,Grams,114,10.0,5.0,3.57,1.43,1.43,1.43,0.0,135.71
-2018-10-30,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
-2018-10-30,Banana,Snacks,90.0,Grams,86,0.27,1.8,20.88,0.9,18.81,0.99,,0.9
-2018-10-29,"Pork Chop, Center Loin, Pan Fried",Breakfast,196.0,Grams,543,32.46,58.62,0.0,11.78,0.0,0.0,180.32,156.8
-2018-10-29,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-10-29,Boiled Water Spinach,Breakfast,33.0,Grams,5,0.23,0.56,0.13,0.17,0.7,0.76,,15.51
-2018-10-29,"Nuts, Peanuts, Dry Roasted",Breakfast,13.0,Grams,74,6.5,3.25,2.32,0.93,0.93,0.93,0.0,88.21
-2018-10-29,"Pork Chop, Center Loin, Pan Fried",Lunch,196.0,Grams,543,32.46,58.62,0.0,11.78,0.0,0.0,180.32,156.8
-2018-10-29,"Egg, Fried, Large",Lunch,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-10-29,Boiled Water Spinach,Lunch,50.0,Grams,8,0.35,0.85,0.2,0.27,0.1,1.15,,23.5
-2018-10-29,"Nuts, Peanuts, Dry Roasted",Snacks,30.0,Grams,171,15.0,7.5,5.36,2.14,2.14,2.14,0.0,203.57
-2018-10-29,Prawn Crackers,Snacks,3.0,Servings,300,12.0,3.0,42.0,4.5,0.0,3.0,0.0,720.0
-2018-09-16,Fried Rice,Breakfast,200.0,Grams,367,9.17,6.35,64.2,1.41,3.53,0.71,0.0,606.7
-2018-09-16,Banana,Breakfast,125.0,Grams,119,0.38,1.5,29.0,0.13,26.13,1.38,,1.25
-2018-09-16,"Egg, Hard Boiled, Whole, Large",Lunch,1.0,Each,78,5.3,6.29,0.56,1.63,0.56,0.0,186.5,62.0
-2018-09-16,"Beef, Stew",Lunch,1.0,Serving,250,11.0,15.0,22.0,5.0,3.0,2.0,45.0,1300.0
-2018-09-16,Ramen Noodles,Lunch,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
-2018-09-16,Banana,Lunch,110.0,Grams,105,0.33,1.32,25.52,0.11,22.99,1.21,,1.1
-2018-09-16,"Chinese, Dish, Dumpling, Steamed, Shumai",Dinner,240.0,Grams,270,6.86,18.29,34.29,2.29,0.0,2.29,59.43,939.43
-2018-09-16,"Drink, Lemonade",Dinner,8.0,Fluid ounces,120,0.0,0.0,30.0,0.0,28.0,0.0,0.0,15.0
-2018-09-16,"Cracker, Sandwich, Cheese",Snacks,43.0,Grams,222,13.34,2.97,25.21,4.45,5.93,0.0,0.0,370.69
-2018-09-16,Banana,Snacks,121.0,Grams,115,0.37,1.45,28.7,0.13,25.29,1.34,,1.21
-2018-09-15,Banana,Breakfast,100.0,Grams,95,0.3,1.2,23.2,0.1,20.9,1.1,,1.0
-2018-09-15,Com Tam Suon Bi Cha,Breakfast,1.0,Serving,460,,,,,,,,
-2018-09-15,Thịt Kho,Lunch,1.0,Serving,420,18.0,22.5,7.0,6.0,19.5,,40.0,
-2018-09-15,"Rice, White, Cooked",Lunch,150.0,Grams,195,0.32,3.57,42.88,0.9,,0.45,0.0,0.0
-2018-09-15,"Egg, Hard Boiled, Whole, Large",Lunch,3.0,Each,233,15.91,18.87,1.68,4.9,1.68,0.0,559.5,186.0
-2018-09-15,"Egg, Hard Boiled, Whole, Large",Dinner,3.0,Each,233,15.91,18.87,1.68,4.9,1.68,0.0,559.5,186.0
-2018-09-15,"Rice, White, Cooked",Dinner,150.0,Grams,195,0.32,3.57,42.88,0.9,,0.45,0.0,0.0
-2018-09-15,Thịt Kho,Dinner,1.0,Serving,420,18.0,22.5,7.0,6.0,19.5,,40.0,
-2018-09-15,Bánh Pía,Snacks,2.0,Servings,712,32.0,10.0,96.0,12.0,80.0,,420.0,60.0
-2018-09-15,Banana,Snacks,125.0,Grams,119,0.38,1.5,29.0,0.13,26.13,1.38,,1.25
-2018-09-15,Banana,Snacks,125.0,Grams,119,0.38,1.5,29.0,0.13,26.13,1.38,,1.25
+2018-08-29,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-08-29,"Fish Ball, Asian Style, Cooked",Breakfast,153.0,Grams,116,1.22,18.82,6.88,0.31,2.14,0.0,110.16,994.5
+2018-08-29,"Green Beans, Cooked",Breakfast,50.0,Grams,18,0.14,0.95,3.94,0.3,1.82,1.6,0.0,0.5
+2018-08-29,"Soup, Egg Drop, Restaurant",Breakfast,3.0,Cups,195,4.41,8.39,31.2,1.16,0.65,2.89,166.29,2675.1
+2018-08-29,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-08-29,"Fish Ball, Asian Style, Cooked",Lunch,200.0,Grams,152,1.6,24.6,9.0,0.4,2.8,0.0,144.0,1300.0
+2018-08-29,"Green Beans, Cooked",Lunch,50.0,Grams,18,0.14,0.95,3.94,0.3,1.82,1.6,0.0,0.5
+2018-08-29,"Soup, Egg Drop, Restaurant",Lunch,3.0,Cups,195,4.41,8.39,31.2,1.16,0.65,2.89,166.29,2675.1
+2018-08-29,"Egg, Fried, Large",Dinner,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-08-29,"Soup, Egg Drop, Restaurant",Dinner,3.0,Cups,195,4.41,8.39,31.2,1.16,0.65,2.89,166.29,2675.1
+2018-08-30,"Beef, Stir-Fry Strips, Untrimmed",Breakfast,202.0,Grams,271,6.6,54.54,0.0,2.2,0.0,0.0,109.8,76.76
+2018-08-30,"Egg, Fried, Large",Breakfast,57.0,Grams,112,8.73,7.76,0.51,2.45,0.47,0.0,260.49,116.28
+2018-08-30,"Milk, Condensed, Sweetened",Breakfast,50.0,Milliliters,207,5.62,5.11,35.13,3.54,35.13,0.0,21.96,82.2
+2018-08-30,Okra,Breakfast,110.0,Grams,34,0.11,2.2,7.73,0.2,1.32,3.52,0.0,8.8
+2018-08-30,"Pumpkin, Mashed, Cooked",Breakfast,230.0,Grams,46,0.16,1.66,11.27,0.7,2.35,2.53,0.0,2.3
+2018-08-30,"Beef, Stir-Fry Strips, Untrimmed",Lunch,150.0,Grams,201,4.5,40.5,0.0,1.5,0.0,0.0,81.0,57.0
+2018-08-30,"Egg, Fried, Large",Lunch,57.0,Grams,112,8.73,7.76,0.51,2.45,0.47,0.0,260.49,116.28
+2018-08-30,Okra,Lunch,60.0,Grams,19,0.6,1.2,4.22,0.1,0.72,1.92,0.0,4.8
+2018-08-30,"Beef, Stir-Fry Strips, Untrimmed",Dinner,150.0,Grams,201,4.5,40.5,0.0,1.5,0.0,0.0,81.0,57.0
+2018-08-30,"Egg, Fried, Large",Dinner,57.0,Grams,112,8.73,7.76,0.51,2.45,0.47,0.0,260.49,116.28
+2018-08-30,Okra,Dinner,60.0,Grams,19,0.6,1.2,4.22,0.1,0.72,1.92,0.0,4.8
+2018-08-30,"Pumpkin, Mashed, Cooked",Dinner,122.0,Grams,24,0.9,0.88,5.98,0.4,1.24,1.34,0.0,1.22
+2018-08-30,"Beef, Stir-Fry Strips, Untrimmed",Snacks,150.0,Grams,201,4.5,40.5,0.0,1.5,0.0,0.0,81.0,57.0
+2018-08-30,Okra,Snacks,60.0,Grams,19,0.6,1.2,4.22,0.1,0.72,1.92,0.0,4.8
+2018-08-30,"Pumpkin, Mashed, Cooked",Snacks,250.0,Grams,50,0.18,1.8,12.25,0.8,2.55,2.75,0.0,2.5
+2018-08-31,Boiled Water Spinach,Breakfast,100.0,Grams,15,0.7,1.7,0.4,0.53,0.2,2.3,,47.0
+2018-08-31,"Egg, Fried, Large",Breakfast,46.0,Grams,90,7.4,6.27,0.41,1.97,0.38,0.0,210.22,93.84
+2018-08-31,"Milk, Condensed, Sweetened",Breakfast,50.0,Milliliters,207,5.62,5.11,35.13,3.54,35.13,0.0,21.96,82.2
+2018-08-31,"Pork Chop, Sirloin, Broiled",Breakfast,150.0,Grams,312,12.9,45.78,0.0,4.32,0.0,0.0,136.5,84.0
+2018-08-31,Boiled Water Spinach,Lunch,100.0,Grams,15,0.7,1.7,0.4,0.53,0.2,2.3,,47.0
+2018-08-31,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-08-31,"Pork Chop, Sirloin, Broiled",Lunch,150.0,Grams,312,12.9,45.78,0.0,4.32,0.0,0.0,136.5,84.0
+2018-08-31,Hủ Tiếu Thịt Heo,Dinner,1.0,Serving,361,12.5,14.4,47.8,,,1.23,,
+2018-08-31,"Tofu, Firm",Dinner,100.0,Grams,84,4.4,8.9,2.3,0.5,0.3,0.8,0.0,4.0
+2018-09-01,Shrimp Shaomai,Breakfast,200.0,Grams,212,0.0,16.46,35.27,0.0,9.41,0.0,23.52,1599.8
+2018-09-04,Banana,Breakfast,111.0,Grams,105,0.34,1.33,25.75,0.12,23.2,1.23,,1.11
+2018-09-04,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-09-04,Okra,Breakfast,50.0,Grams,16,0.5,1.0,3.52,0.1,0.6,1.6,0.0,4.0
+2018-09-04,"Snakehead (Channa arga), Raw ",Breakfast,212.0,Grams,182,1.7,38.58,0.64,,,,,182.32
+2018-09-04,"Egg, Fried, Large",Lunch,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-09-04,Okra,Lunch,50.0,Grams,16,0.5,1.0,3.52,0.1,0.6,1.6,0.0,4.0
+2018-09-04,"Snakehead (Channa arga), Raw ",Lunch,150.0,Grams,129,1.2,27.3,0.45,,,,,129.0
+2018-09-04,Cá nục xốt cà,Dinner,300.0,Grams,429,19.48,38.96,19.48,9.74,3.9,,136.36,1324.68
+2018-09-04,"Egg, Fried, Large",Dinner,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-09-04,Okra,Dinner,60.0,Grams,19,0.6,1.2,4.22,0.1,0.72,1.92,0.0,4.8
+2018-09-04,"Snakehead (Channa arga), Raw ",Dinner,60.0,Grams,52,0.48,10.92,0.18,,,,,51.6
+2018-09-05,"Broccoli, Chopped, Cooked",Breakfast,64.0,Grams,22,0.26,1.52,4.6,0.4,0.89,2.11,0.0,26.24
+2018-09-05,Chicken Thighs Grilled,Breakfast,123.0,Grams,286,17.96,28.73,0.0,5.39,0.0,0.0,163.4,125.69
+2018-09-05,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-09-05,"Spinach, Cooked",Breakfast,2.0,Cups,83,0.94,10.69,13.5,0.14,1.55,8.64,0.0,252.0
+2018-09-05,"Broccoli, Chopped, Cooked",Lunch,50.0,Grams,18,0.21,1.19,3.59,0.4,0.7,1.65,0.0,20.5
+2018-09-05,Chicken Thighs Grilled,Lunch,150.0,Grams,348,21.9,35.4,0.0,6.57,0.0,0.0,199.27,153.28
+2018-09-05,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-09-05,"Spinach, Cooked",Lunch,2.0,Cups,83,0.94,10.69,13.5,0.14,1.55,8.64,0.0,252.0
+2018-09-05,White Chai Tow Kway (Teochew Carrot Cake),Dinner,1.0,Serving,466,24.0,11.0,51.0,,,,,
+2018-09-05,Banana,Snacks,125.0,Grams,119,0.38,1.5,29.0,0.13,26.13,1.38,,1.25
+2018-09-06,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-09-06,"Green Beans, Cooked",Breakfast,73.0,Grams,26,0.2,1.38,5.75,0.5,2.65,2.34,0.0,0.73
+2018-09-06,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Breakfast,204.0,Grams,251,14.28,20.4,10.2,6.12,6.12,2.4,83.64,122.4
+2018-09-06,"Spinach, Baby, Boiled in Unsalted Water",Breakfast,250.0,Grams,50,2.5,7.5,0.0,0.0,0.0,2.5,0.0,105.0
+2018-09-06,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-09-06,"Green Beans, Cooked",Lunch,50.0,Grams,18,0.14,0.95,3.94,0.3,1.82,1.6,0.0,0.5
+2018-09-06,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Lunch,270.0,Grams,332,18.9,27.0,13.5,8.1,8.1,2.7,110.7,162.0
+2018-09-06,"Spinach, Baby, Boiled in Unsalted Water",Lunch,250.0,Grams,50,2.5,7.5,0.0,0.0,0.0,2.5,0.0,105.0
+2018-09-06,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Dinner,204.0,Grams,251,14.28,20.4,10.2,6.12,6.12,2.4,83.64,122.4
+2018-09-06,"Ice Cream, Chocolate, Rich",Snacks,180.0,Grams,459,30.56,8.5,37.35,18.67,31.23,1.62,108.0,102.6
+2018-09-07,Bánh Giò,Breakfast,1.0,Piece,216,7.1,9.3,28.5,,,,,
+2018-09-07,Cafe Sữa Đá,Breakfast,1.0,Serving,250,,,,,,,,
+2018-09-07,"Fish Balls, Steamed",Breakfast,200.0,Grams,148,2.0,24.0,12.0,,0.0,,,1500.0
+2018-09-07,Vermicelli Rice Noodles,Breakfast,50.0,Grams,154,0.23,0.54,54.15,0.8,0.8,,,0.4
+2018-09-09,"Beef, Stew",Breakfast,1.0,Serving,250,11.0,15.0,22.0,5.0,3.0,2.0,45.0,1300.0
+2018-09-09,"Ice Cream, Chocolate, Rich",Breakfast,123.0,Grams,314,20.89,5.81,25.52,12.76,21.34,1.11,73.8,70.11
+2018-09-09,Ramen Noodles,Breakfast,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
+2018-09-09,"Beef, Strips For Stir Fry",Lunch,50.0,Grams,55,2.65,6.17,,,,,,
+2018-09-09,Ramen Noodles,Lunch,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
+2018-09-09,Hu Tieu Nam Vang,Dinner,1.0,Serving,576,24.0,42.0,45.0,6.0,2.0,4.0,147.0,1845.0
+2018-09-10,"Egg, Fried, Large",Breakfast,250.0,Grams,490,38.27,34.5,2.25,10.72,2.8,0.0,1142.5,510.0
+2018-09-10,"Ham, Diced",Breakfast,18.0,Grams,49,3.17,4.83,0.0,1.16,0.0,0.0,16.92,10.8
+2018-09-10,"Leeks, Cooked",Breakfast,50.0,Grams,16,0.1,0.41,3.81,0.1,1.5,0.5,0.0,5.0
+2018-09-10,"Pork, Ground, Cooked",Breakfast,20.0,Grams,59,4.15,5.14,0.0,1.54,0.0,0.0,18.8,14.6
+2018-09-10,Tofu,Breakfast,60.0,Grams,49,2.88,4.86,1.14,0.6,0.0,0.72,0.0,4.2
+2018-09-10,"Egg, Fried, Large",Lunch,130.0,Grams,255,19.9,17.71,1.17,5.58,1.8,0.0,594.1,265.2
+2018-09-10,"Ham, Diced",Lunch,20.0,Grams,55,3.52,5.37,0.0,1.29,0.0,0.0,18.8,12.0
+2018-09-10,"Pork, Ground, Cooked",Lunch,20.0,Grams,59,4.15,5.14,0.0,1.54,0.0,0.0,18.8,14.6
+2018-09-10,Tofu,Lunch,60.0,Grams,49,2.88,4.86,1.14,0.6,0.0,0.72,0.0,4.2
+2018-09-10,Banh bot chien,Dinner,300.0,Grams,324,1.98,5.29,198.42,0.66,0.0,5.29,0.0,423.29
+2018-09-11,Cafe Sữa Đá,Breakfast,1.0,Serving,250,,,,,,,,
+2018-09-11,"Egg, Fried, Large",Breakfast,52.0,Grams,102,7.96,7.8,0.47,2.23,0.43,0.0,237.64,106.8
+2018-09-11,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Breakfast,58.0,Grams,17,0.0,2.7,2.7,0.0,2.7,2.7,0.0,2.7
+2018-09-11,"Okra, Slices, Cooked",Breakfast,100.0,Grams,22,0.21,1.87,4.51,0.4,2.4,2.5,0.0,6.0
+2018-09-11,"Pork Chop, Center Loin, Pan Fried",Breakfast,202.0,Grams,560,33.45,60.42,0.0,12.14,0.0,0.0,185.84,161.6
+2018-09-11,"Egg, Fried, Large",Lunch,52.0,Grams,102,7.96,7.8,0.47,2.23,0.43,0.0,237.64,106.8
+2018-09-11,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Lunch,58.0,Grams,17,0.0,2.7,2.7,0.0,2.7,2.7,0.0,2.7
+2018-09-11,"Pork Chop, Center Loin, Pan Fried",Lunch,150.0,Grams,416,24.84,44.87,0.0,9.2,0.0,0.0,138.0,120.0
+2018-09-11,"Fish Ball, Asian Style, Cooked",Dinner,200.0,Grams,152,1.6,24.6,9.0,0.4,2.8,0.0,144.0,1300.0
+2018-09-11,Xúc Xích Bò (70g),Dinner,3.0,Servings,285,45.0,,30.0,,,,,
+2018-09-12,"Beef, Stir-Fry Strips, Untrimmed",Breakfast,210.0,Grams,281,6.3,56.7,0.0,2.1,0.0,0.0,113.4,79.8
+2018-09-12,"Broccoli, Chopped, Cooked",Breakfast,100.0,Grams,35,0.41,2.38,7.18,0.7,1.39,3.3,0.0,41.0
+2018-09-12,Chinese Wax Gourd Or Winter Melon,Breakfast,250.0,Grams,30,0.5,1.0,6.5,,,1.75,,4.5
+2018-09-12,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-09-12,Vietnamese Banh Mi Sandwich,Lunch,2.0,Each,566,21.15,50.13,41.39,6.17,9.29,3.56,122.47,1691.1
+2018-09-12,"Pork Roast, Top Loin, Cooked",Dinner,100.0,Grams,192,8.82,26.45,0.0,2.83,0.0,0.0,80.0,46.0
+2018-09-12,Ramen Noodles,Dinner,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
+2018-09-12,"Ice Cream, Vanilla",Snacks,183.0,Grams,379,20.13,6.41,43.19,12.43,38.83,1.28,80.52,146.4
+2018-09-12,"Rice Cake, Caramel Corn",Snacks,100.0,Grams,385,0.0,7.69,84.62,0.0,23.8,0.0,0.0,230.77
+2018-09-12,"Soda, Coke",Snacks,330.0,Milliliters,138,0.0,0.0,35.75,0.0,35.75,0.0,0.0,41.25
+2018-09-13,Boiled Water Spinach,Breakfast,68.0,Grams,10,0.48,1.16,0.27,0.36,0.14,1.56,,31.96
+2018-09-13,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-09-13,"Pumpkin, Mashed, Cooked",Breakfast,250.0,Grams,50,0.18,1.8,12.25,0.8,2.55,2.75,0.0,2.5
+2018-09-13,"Snakehead (Channa arga), Raw ",Breakfast,210.0,Grams,181,1.68,38.22,0.63,,,,,180.6
+2018-09-13,Mè Xửng Giòn,Lunch,200.0,Grams,540,6.4,6.6,112.0,6.0,86.6,0.0,16.0,0.0
+2018-09-13,Bún Bò Huế,Dinner,1.0,Serving,465,17.0,36.0,43.0,4.0,0.0,2.0,0.0,0.0
+2018-09-13,"Ice Cream, Chocolate, Rich",Dinner,127.0,Grams,324,21.56,5.99,26.35,13.17,22.3,1.14,76.2,72.39
+2018-09-13,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
 2018-09-14,Com Tam Suon Bi Cha,Breakfast,1.0,Serving,460,,,,,,,,
 2018-09-14,"Curry, Chicken Korma",Lunch,200.0,Grams,254,10.18,29.2,9.2,2.39,5.58,1.42,106.19,136.28
 2018-09-14,"Curry, Chicken Korma",Dinner,200.0,Grams,254,10.18,29.2,9.2,2.39,5.58,1.42,106.19,136.28
 2018-09-14,Bánh Pía,Snacks,3.0,Servings,1068,48.0,15.0,144.0,18.0,120.0,,630.0,90.0
-2018-09-13,"Snakehead (Channa arga), Raw ",Breakfast,210.0,Grams,181,1.68,38.22,0.63,,,,,180.6
-2018-09-13,Boiled Water Spinach,Breakfast,68.0,Grams,10,0.48,1.16,0.27,0.36,0.14,1.56,,31.96
-2018-09-13,"Pumpkin, Mashed, Cooked",Breakfast,250.0,Grams,50,0.18,1.8,12.25,0.8,2.55,2.75,0.0,2.5
-2018-09-13,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-09-13,Mè Xửng Giòn,Lunch,200.0,Grams,540,6.4,6.6,112.0,6.0,86.6,0.0,16.0,0.0
-2018-09-13,"Ice Cream, Chocolate, Rich",Dinner,127.0,Grams,324,21.56,5.99,26.35,13.17,22.3,1.14,76.2,72.39
-2018-09-13,Bún Bò Huế,Dinner,1.0,Serving,465,17.0,36.0,43.0,4.0,0.0,2.0,0.0,0.0
-2018-09-13,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
-2018-09-12,"Beef, Stir-Fry Strips, Untrimmed",Breakfast,210.0,Grams,281,6.3,56.7,0.0,2.1,0.0,0.0,113.4,79.8
-2018-09-12,"Broccoli, Chopped, Cooked",Breakfast,100.0,Grams,35,0.41,2.38,7.18,0.7,1.39,3.3,0.0,41.0
-2018-09-12,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-09-12,Chinese Wax Gourd Or Winter Melon,Breakfast,250.0,Grams,30,0.5,1.0,6.5,,,1.75,,4.5
-2018-09-12,Vietnamese Banh Mi Sandwich,Lunch,2.0,Each,566,21.15,50.13,41.39,6.17,9.29,3.56,122.47,1691.1
-2018-09-12,Ramen Noodles,Dinner,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
-2018-09-12,"Pork Roast, Top Loin, Cooked",Dinner,100.0,Grams,192,8.82,26.45,0.0,2.83,0.0,0.0,80.0,46.0
-2018-09-12,"Ice Cream, Vanilla",Snacks,183.0,Grams,379,20.13,6.41,43.19,12.43,38.83,1.28,80.52,146.4
-2018-09-12,"Rice Cake, Caramel Corn",Snacks,100.0,Grams,385,0.0,7.69,84.62,0.0,23.8,0.0,0.0,230.77
-2018-09-12,"Soda, Coke",Snacks,330.0,Milliliters,138,0.0,0.0,35.75,0.0,35.75,0.0,0.0,41.25
-2018-09-11,"Pork Chop, Center Loin, Pan Fried",Breakfast,202.0,Grams,560,33.45,60.42,0.0,12.14,0.0,0.0,185.84,161.6
-2018-09-11,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Breakfast,58.0,Grams,17,0.0,2.7,2.7,0.0,2.7,2.7,0.0,2.7
-2018-09-11,"Egg, Fried, Large",Breakfast,52.0,Grams,102,7.96,7.8,0.47,2.23,0.43,0.0,237.64,106.8
-2018-09-11,Cafe Sữa Đá,Breakfast,1.0,Serving,250,,,,,,,,
-2018-09-11,"Okra, Slices, Cooked",Breakfast,100.0,Grams,22,0.21,1.87,4.51,0.4,2.4,2.5,0.0,6.0
-2018-09-11,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Lunch,58.0,Grams,17,0.0,2.7,2.7,0.0,2.7,2.7,0.0,2.7
-2018-09-11,"Egg, Fried, Large",Lunch,52.0,Grams,102,7.96,7.8,0.47,2.23,0.43,0.0,237.64,106.8
-2018-09-11,"Pork Chop, Center Loin, Pan Fried",Lunch,150.0,Grams,416,24.84,44.87,0.0,9.2,0.0,0.0,138.0,120.0
-2018-09-11,"Fish Ball, Asian Style, Cooked",Dinner,200.0,Grams,152,1.6,24.6,9.0,0.4,2.8,0.0,144.0,1300.0
-2018-09-11,Xúc Xích Bò (70g),Dinner,3.0,Servings,285,45.0,,30.0,,,,,
-2018-09-10,"Egg, Fried, Large",Breakfast,250.0,Grams,490,38.27,34.5,2.25,10.72,2.8,0.0,1142.5,510.0
-2018-09-10,"Ham, Diced",Breakfast,18.0,Grams,49,3.17,4.83,0.0,1.16,0.0,0.0,16.92,10.8
-2018-09-10,"Leeks, Cooked",Breakfast,50.0,Grams,16,0.1,0.41,3.81,0.1,1.5,0.5,0.0,5.0
-2018-09-10,Tofu,Breakfast,60.0,Grams,49,2.88,4.86,1.14,0.6,0.0,0.72,0.0,4.2
-2018-09-10,"Pork, Ground, Cooked",Breakfast,20.0,Grams,59,4.15,5.14,0.0,1.54,0.0,0.0,18.8,14.6
-2018-09-10,"Egg, Fried, Large",Lunch,130.0,Grams,255,19.9,17.71,1.17,5.58,1.8,0.0,594.1,265.2
-2018-09-10,"Ham, Diced",Lunch,20.0,Grams,55,3.52,5.37,0.0,1.29,0.0,0.0,18.8,12.0
-2018-09-10,Tofu,Lunch,60.0,Grams,49,2.88,4.86,1.14,0.6,0.0,0.72,0.0,4.2
-2018-09-10,"Pork, Ground, Cooked",Lunch,20.0,Grams,59,4.15,5.14,0.0,1.54,0.0,0.0,18.8,14.6
-2018-09-10,Banh bot chien,Dinner,300.0,Grams,324,1.98,5.29,198.42,0.66,0.0,5.29,0.0,423.29
-2018-09-23,Hủ Tiếu,Breakfast,1.0,Serving,326,,,,,,,,
-2018-09-23,Cafe Sữa Đá,Breakfast,1.0,Serving,250,,,,,,,,
-2018-09-23,Cháo lòng,Lunch,1.0,Serving,412,13.5,30.8,41.7,,,0.84,,
-2018-09-23,Har Gow,Dinner,12.0,Pieces,528,12.0,36.0,60.0,12.0,0.0,0.0,252.0,1440.0
-2018-09-22,Shrimp Shaomai,Breakfast,209.0,Grams,221,0.0,17.2,36.86,0.0,9.83,0.0,24.57,1671.4
-2018-09-22,"Cabbage, Shredded, Cooked",Breakfast,200.0,Grams,46,0.12,2.54,11.2,0.0,5.58,3.8,0.0,16.0
-2018-09-22,"Creamer, Italian Sweet Cream",Breakfast,1.0,Tablespoon,35,1.48,0.0,4.93,0.0,4.93,0.0,0.0,14.79
-2018-09-22,"Pulled Pork, in BBQ Sauce",Lunch,154.0,Grams,259,6.8,20.35,28.82,2.16,7.73,1.86,53.81,1026.67
-2018-09-22,"Rice, White, Cooked",Lunch,150.0,Grams,195,0.32,3.57,42.88,0.9,,0.45,0.0,0.0
-2018-09-22,"Egg, Hard Boiled",Lunch,108.0,Grams,168,10.8,12.96,2.16,4.32,2.16,0.0,457.92,133.92
-2018-09-22,Shrimp Shaomai,Dinner,231.0,Grams,244,0.0,19.1,40.74,0.0,10.86,0.0,27.16,1846.94
-2018-09-22,Mooncake,Snacks,1.0,Piece,540,26.0,8.0,70.0,,,0.0,,
-2018-09-21,"Pork Chop, Cooked",Breakfast,207.0,Grams,431,17.8,63.18,0.0,5.96,0.0,0.0,188.37,115.92
+2018-09-15,Banana,Breakfast,100.0,Grams,95,0.3,1.2,23.2,0.1,20.9,1.1,,1.0
+2018-09-15,Com Tam Suon Bi Cha,Breakfast,1.0,Serving,460,,,,,,,,
+2018-09-15,"Egg, Hard Boiled, Whole, Large",Lunch,3.0,Each,233,15.91,18.87,1.68,4.9,1.68,0.0,559.5,186.0
+2018-09-15,"Rice, White, Cooked",Lunch,150.0,Grams,195,0.32,3.57,42.88,0.9,,0.45,0.0,0.0
+2018-09-15,Thịt Kho,Lunch,1.0,Serving,420,18.0,22.5,7.0,6.0,19.5,,40.0,
+2018-09-15,"Egg, Hard Boiled, Whole, Large",Dinner,3.0,Each,233,15.91,18.87,1.68,4.9,1.68,0.0,559.5,186.0
+2018-09-15,"Rice, White, Cooked",Dinner,150.0,Grams,195,0.32,3.57,42.88,0.9,,0.45,0.0,0.0
+2018-09-15,Thịt Kho,Dinner,1.0,Serving,420,18.0,22.5,7.0,6.0,19.5,,40.0,
+2018-09-15,Banana,Snacks,125.0,Grams,119,0.38,1.5,29.0,0.13,26.13,1.38,,1.25
+2018-09-15,Banana,Snacks,125.0,Grams,119,0.38,1.5,29.0,0.13,26.13,1.38,,1.25
+2018-09-15,Bánh Pía,Snacks,2.0,Servings,712,32.0,10.0,96.0,12.0,80.0,,420.0,60.0
+2018-09-16,Banana,Breakfast,125.0,Grams,119,0.38,1.5,29.0,0.13,26.13,1.38,,1.25
+2018-09-16,Fried Rice,Breakfast,200.0,Grams,367,9.17,6.35,64.2,1.41,3.53,0.71,0.0,606.7
+2018-09-16,Banana,Lunch,110.0,Grams,105,0.33,1.32,25.52,0.11,22.99,1.21,,1.1
+2018-09-16,"Beef, Stew",Lunch,1.0,Serving,250,11.0,15.0,22.0,5.0,3.0,2.0,45.0,1300.0
+2018-09-16,"Egg, Hard Boiled, Whole, Large",Lunch,1.0,Each,78,5.3,6.29,0.56,1.63,0.56,0.0,186.5,62.0
+2018-09-16,Ramen Noodles,Lunch,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
+2018-09-16,"Chinese, Dish, Dumpling, Steamed, Shumai",Dinner,240.0,Grams,270,6.86,18.29,34.29,2.29,0.0,2.29,59.43,939.43
+2018-09-16,"Drink, Lemonade",Dinner,8.0,Fluid ounces,120,0.0,0.0,30.0,0.0,28.0,0.0,0.0,15.0
+2018-09-16,Banana,Snacks,121.0,Grams,115,0.37,1.45,28.7,0.13,25.29,1.34,,1.21
+2018-09-16,"Cracker, Sandwich, Cheese",Snacks,43.0,Grams,222,13.34,2.97,25.21,4.45,5.93,0.0,0.0,370.69
+2018-09-17,"Cabbage, Shredded, Cooked",Breakfast,90.0,Grams,21,0.5,1.14,4.96,0.0,2.51,1.71,0.0,7.2
+2018-09-17,Chinese Wax Gourd Or Winter Melon,Breakfast,90.0,Grams,11,0.18,0.36,2.34,,,0.63,,1.62
+2018-09-17,"Egg, Hard Boiled, Whole, Large",Breakfast,133.0,Grams,206,14.11,16.73,1.49,4.35,1.49,0.0,496.9,164.92
+2018-09-17,"Potatoes, Skinless, Cooked",Breakfast,100.0,Grams,86,0.1,1.71,20.1,0.2,0.85,1.8,0.0,5.0
+2018-09-17,"Pulled Pork, in BBQ Sauce",Breakfast,150.0,Grams,252,6.63,19.82,28.7,2.11,7.53,1.81,52.41,1000.0
+2018-09-17,"Cabbage, Shredded, Cooked",Lunch,90.0,Grams,21,0.5,1.14,4.96,0.0,2.51,1.71,0.0,7.2
+2018-09-17,Chinese Wax Gourd Or Winter Melon,Lunch,90.0,Grams,11,0.18,0.36,2.34,,,0.63,,1.62
+2018-09-17,"Egg, Hard Boiled, Whole, Large",Lunch,111.0,Grams,172,11.78,13.96,1.24,3.63,1.24,0.0,414.3,137.64
+2018-09-17,"Potatoes, Skinless, Cooked",Lunch,100.0,Grams,86,0.1,1.71,20.1,0.2,0.85,1.8,0.0,5.0
+2018-09-17,"Pulled Pork, in BBQ Sauce",Lunch,150.0,Grams,252,6.63,19.82,28.7,2.11,7.53,1.81,52.41,1000.0
+2018-09-17,"Cabbage, Shredded, Cooked",Dinner,90.0,Grams,21,0.5,1.14,4.96,0.0,2.51,1.71,0.0,7.2
+2018-09-17,Chinese Wax Gourd Or Winter Melon,Dinner,90.0,Grams,11,0.18,0.36,2.34,,,0.63,,1.62
+2018-09-17,"Egg, Hard Boiled, Whole, Large",Dinner,111.0,Grams,172,11.78,13.96,1.24,3.63,1.24,0.0,414.3,137.64
+2018-09-17,"Potatoes, Skinless, Cooked",Dinner,100.0,Grams,86,0.1,1.71,20.1,0.2,0.85,1.8,0.0,5.0
+2018-09-17,"Pulled Pork, in BBQ Sauce",Dinner,108.0,Grams,181,4.77,14.27,20.21,1.52,5.42,1.3,37.73,720.0
+2018-09-17,"Rice, White, Cooked",Dinner,58.0,Grams,75,0.12,1.38,16.58,0.3,,0.17,0.0,0.0
+2018-09-18,"Cabbage, Shredded, Cooked",Breakfast,200.0,Grams,46,0.12,2.54,11.2,0.0,5.58,3.8,0.0,16.0
+2018-09-18,"Chinese, Dish, Dumpling, Steamed, Shumai",Breakfast,205.0,Grams,230,5.86,15.62,29.29,1.95,0.0,1.95,50.76,802.43
+2018-09-18,Vietnamese coffee (w condensed and evaporated milk),Breakfast,1.0,Serving,140,,,,,,,,
+2018-09-18,"Cabbage, Bok Choy, Cooked",Lunch,250.0,Grams,28,0.74,9.26,2.21,0.0,2.21,8.82,0.0,213.24
+2018-09-18,"Egg, Large",Lunch,2.0,Each,143,9.51,12.56,0.72,3.13,0.37,0.0,372.0,142.0
+2018-09-18,"Pork, Pulled, w/ BBQ Sauce",Lunch,150.0,Grams,257,10.71,25.71,15.0,3.75,15.0,0.0,53.57,332.14
+2018-09-18,"Rice, White, Cooked",Lunch,100.0,Grams,130,0.21,2.38,28.59,0.6,,0.3,0.0,0.0
+2018-09-18,"Chinese, Dish, Dumpling, Steamed, Shumai",Dinner,311.0,Grams,350,8.89,23.7,44.43,2.96,0.0,2.96,77.1,1217.34
+2018-09-18,"Pork, Pulled, w/ BBQ Sauce",Dinner,52.0,Grams,89,3.71,8.91,5.2,1.3,5.2,0.0,18.57,115.14
+2018-09-18,"Rice, White, Cooked",Dinner,152.0,Grams,198,0.32,3.62,43.46,0.9,,0.46,0.0,0.0
+2018-09-19,Boiled Water Spinach,Breakfast,66.0,Grams,10,0.46,1.12,0.26,0.35,0.13,1.52,,31.2
+2018-09-19,Chinese Wax Gourd Or Winter Melon,Breakfast,254.0,Grams,30,0.51,1.2,6.6,,,1.78,,4.57
+2018-09-19,"Egg, Fried, Large",Breakfast,150.0,Grams,294,22.96,20.43,1.35,6.43,1.25,0.0,685.5,306.0
+2018-09-19,"Ham, Diced",Breakfast,45.0,Grams,123,7.92,12.7,0.0,2.91,0.0,0.0,42.3,27.0
+2018-09-19,Boiled Water Spinach,Lunch,66.0,Grams,10,0.46,1.12,0.26,0.35,0.13,1.52,,31.2
+2018-09-19,Chinese Wax Gourd Or Winter Melon,Lunch,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
+2018-09-19,"Egg, Fried, Large",Lunch,120.0,Grams,235,18.37,16.34,1.8,5.15,1.0,0.0,548.4,244.8
+2018-09-19,"Ham, Diced",Lunch,30.0,Grams,82,5.28,8.5,0.0,1.94,0.0,0.0,28.2,18.0
+2018-09-19,Chocopie,Snacks,1.0,Serving,140,,,,,,,,
+2018-09-19,"Rice Cake, Brown, Plain",Snacks,2.0,Each,70,0.5,1.48,14.67,0.1,0.16,0.76,0.0,58.68
+2018-09-19,Snack Tôm 20g,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
+2018-09-19,"Vietnamese Rice Cake, Banh Tet",Snacks,140.0,Grams,445,5.49,24.71,76.86,0.0,0.0,8.24,30.2,436.47
+2018-09-20,Chicken Thighs Grilled,Breakfast,252.0,Grams,585,36.79,58.86,0.0,11.4,0.0,0.0,334.77,257.52
+2018-09-20,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-09-20,"Green Beans, Cooked",Breakfast,59.0,Grams,21,0.17,1.12,4.65,0.4,2.14,1.89,0.0,0.59
+2018-09-20,"Yam, purple",Breakfast,125.0,Grams,212,0.0,0.0,35.27,0.0,0.0,4.41,0.0,8.82
+2018-09-20,Chicken Thighs Grilled,Lunch,150.0,Grams,348,21.9,35.4,0.0,6.57,0.0,0.0,199.27,153.28
+2018-09-20,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-09-20,"Green Beans, Cooked",Lunch,50.0,Grams,18,0.14,0.95,3.94,0.3,1.82,1.6,0.0,0.5
+2018-09-20,"Yam, purple",Lunch,100.0,Grams,169,0.0,0.0,28.22,0.0,0.0,3.53,0.0,7.5
+2018-09-20,Banana,Snacks,34.0,Grams,32,0.1,0.41,7.89,0.4,7.11,0.38,,0.34
+2018-09-20,Snack Tôm 20g,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
 2018-09-21,Boiled Water Spinach,Breakfast,41.0,Grams,6,0.29,0.7,0.16,0.22,0.8,0.94,,19.27
 2018-09-21,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
 2018-09-21,"Okra, Slices, Cooked",Breakfast,20.0,Grams,4,0.4,0.37,0.9,0.1,0.48,0.5,0.0,1.2
-2018-09-21,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-09-21,"Pork Chop, Cooked",Breakfast,207.0,Grams,431,17.8,63.18,0.0,5.96,0.0,0.0,188.37,115.92
 2018-09-21,Boiled Water Spinach,Lunch,41.0,Grams,6,0.29,0.7,0.16,0.22,0.8,0.94,,19.27
+2018-09-21,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
 2018-09-21,"Okra, Slices, Cooked",Lunch,20.0,Grams,4,0.4,0.37,0.9,0.1,0.48,0.5,0.0,1.2
 2018-09-21,"Pork Chop, Cooked",Lunch,150.0,Grams,312,12.9,45.78,0.0,4.32,0.0,0.0,136.5,84.0
 2018-09-21,"Fish Ball, Asian Style, Cooked",Dinner,150.0,Grams,114,1.2,18.45,6.75,0.3,2.1,0.0,108.0,975.0
 2018-09-21,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
 2018-09-21,Cocacola coffee,Snacks,1.0,Serving,78,0.0,,5.0,0.0,5.0,,0.0,23.0
-2018-09-21,Xuc Xich Bo,Snacks,105.0,Grams,175,8.5,12.6,13.65,,,,40.84,
 2018-09-21,Mooncake,Snacks,0.25,Piece,135,6.5,2.0,17.5,,,0.0,,
-2018-09-20,"Green Beans, Cooked",Breakfast,59.0,Grams,21,0.17,1.12,4.65,0.4,2.14,1.89,0.0,0.59
-2018-09-20,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-09-20,Chicken Thighs Grilled,Breakfast,252.0,Grams,585,36.79,58.86,0.0,11.4,0.0,0.0,334.77,257.52
-2018-09-20,"Yam, purple",Breakfast,125.0,Grams,212,0.0,0.0,35.27,0.0,0.0,4.41,0.0,8.82
-2018-09-20,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-09-20,"Green Beans, Cooked",Lunch,50.0,Grams,18,0.14,0.95,3.94,0.3,1.82,1.6,0.0,0.5
-2018-09-20,Chicken Thighs Grilled,Lunch,150.0,Grams,348,21.9,35.4,0.0,6.57,0.0,0.0,199.27,153.28
-2018-09-20,"Yam, purple",Lunch,100.0,Grams,169,0.0,0.0,28.22,0.0,0.0,3.53,0.0,7.5
-2018-09-20,Banana,Snacks,34.0,Grams,32,0.1,0.41,7.89,0.4,7.11,0.38,,0.34
-2018-09-20,Snack Tôm 20g,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
-2018-09-19,"Egg, Fried, Large",Breakfast,150.0,Grams,294,22.96,20.43,1.35,6.43,1.25,0.0,685.5,306.0
-2018-09-19,Boiled Water Spinach,Breakfast,66.0,Grams,10,0.46,1.12,0.26,0.35,0.13,1.52,,31.2
-2018-09-19,Chinese Wax Gourd Or Winter Melon,Breakfast,254.0,Grams,30,0.51,1.2,6.6,,,1.78,,4.57
-2018-09-19,"Ham, Diced",Breakfast,45.0,Grams,123,7.92,12.7,0.0,2.91,0.0,0.0,42.3,27.0
-2018-09-19,Boiled Water Spinach,Lunch,66.0,Grams,10,0.46,1.12,0.26,0.35,0.13,1.52,,31.2
-2018-09-19,"Egg, Fried, Large",Lunch,120.0,Grams,235,18.37,16.34,1.8,5.15,1.0,0.0,548.4,244.8
-2018-09-19,"Ham, Diced",Lunch,30.0,Grams,82,5.28,8.5,0.0,1.94,0.0,0.0,28.2,18.0
-2018-09-19,Chinese Wax Gourd Or Winter Melon,Lunch,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
-2018-09-19,"Vietnamese Rice Cake, Banh Tet",Snacks,140.0,Grams,445,5.49,24.71,76.86,0.0,0.0,8.24,30.2,436.47
-2018-09-19,Snack Tôm 20g,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
-2018-09-19,"Rice Cake, Brown, Plain",Snacks,2.0,Each,70,0.5,1.48,14.67,0.1,0.16,0.76,0.0,58.68
-2018-09-19,Chocopie,Snacks,1.0,Serving,140,,,,,,,,
-2018-09-18,"Chinese, Dish, Dumpling, Steamed, Shumai",Breakfast,205.0,Grams,230,5.86,15.62,29.29,1.95,0.0,1.95,50.76,802.43
-2018-09-18,"Cabbage, Shredded, Cooked",Breakfast,200.0,Grams,46,0.12,2.54,11.2,0.0,5.58,3.8,0.0,16.0
-2018-09-18,Vietnamese coffee (w condensed and evaporated milk),Breakfast,1.0,Serving,140,,,,,,,,
-2018-09-18,"Pork, Pulled, w/ BBQ Sauce",Lunch,150.0,Grams,257,10.71,25.71,15.0,3.75,15.0,0.0,53.57,332.14
-2018-09-18,"Cabbage, Bok Choy, Cooked",Lunch,250.0,Grams,28,0.74,9.26,2.21,0.0,2.21,8.82,0.0,213.24
-2018-09-18,"Egg, Large",Lunch,2.0,Each,143,9.51,12.56,0.72,3.13,0.37,0.0,372.0,142.0
-2018-09-18,"Rice, White, Cooked",Lunch,100.0,Grams,130,0.21,2.38,28.59,0.6,,0.3,0.0,0.0
-2018-09-18,"Chinese, Dish, Dumpling, Steamed, Shumai",Dinner,311.0,Grams,350,8.89,23.7,44.43,2.96,0.0,2.96,77.1,1217.34
-2018-09-18,"Rice, White, Cooked",Dinner,152.0,Grams,198,0.32,3.62,43.46,0.9,,0.46,0.0,0.0
-2018-09-18,"Pork, Pulled, w/ BBQ Sauce",Dinner,52.0,Grams,89,3.71,8.91,5.2,1.3,5.2,0.0,18.57,115.14
-2018-09-17,Chinese Wax Gourd Or Winter Melon,Breakfast,90.0,Grams,11,0.18,0.36,2.34,,,0.63,,1.62
-2018-09-17,"Potatoes, Skinless, Cooked",Breakfast,100.0,Grams,86,0.1,1.71,20.1,0.2,0.85,1.8,0.0,5.0
-2018-09-17,"Egg, Hard Boiled, Whole, Large",Breakfast,133.0,Grams,206,14.11,16.73,1.49,4.35,1.49,0.0,496.9,164.92
-2018-09-17,"Cabbage, Shredded, Cooked",Breakfast,90.0,Grams,21,0.5,1.14,4.96,0.0,2.51,1.71,0.0,7.2
-2018-09-17,"Pulled Pork, in BBQ Sauce",Breakfast,150.0,Grams,252,6.63,19.82,28.7,2.11,7.53,1.81,52.41,1000.0
-2018-09-17,"Cabbage, Shredded, Cooked",Lunch,90.0,Grams,21,0.5,1.14,4.96,0.0,2.51,1.71,0.0,7.2
-2018-09-17,"Potatoes, Skinless, Cooked",Lunch,100.0,Grams,86,0.1,1.71,20.1,0.2,0.85,1.8,0.0,5.0
-2018-09-17,Chinese Wax Gourd Or Winter Melon,Lunch,90.0,Grams,11,0.18,0.36,2.34,,,0.63,,1.62
-2018-09-17,"Egg, Hard Boiled, Whole, Large",Lunch,111.0,Grams,172,11.78,13.96,1.24,3.63,1.24,0.0,414.3,137.64
-2018-09-17,"Pulled Pork, in BBQ Sauce",Lunch,150.0,Grams,252,6.63,19.82,28.7,2.11,7.53,1.81,52.41,1000.0
-2018-09-17,Chinese Wax Gourd Or Winter Melon,Dinner,90.0,Grams,11,0.18,0.36,2.34,,,0.63,,1.62
-2018-09-17,"Potatoes, Skinless, Cooked",Dinner,100.0,Grams,86,0.1,1.71,20.1,0.2,0.85,1.8,0.0,5.0
-2018-09-17,"Egg, Hard Boiled, Whole, Large",Dinner,111.0,Grams,172,11.78,13.96,1.24,3.63,1.24,0.0,414.3,137.64
-2018-09-17,"Cabbage, Shredded, Cooked",Dinner,90.0,Grams,21,0.5,1.14,4.96,0.0,2.51,1.71,0.0,7.2
-2018-09-17,"Pulled Pork, in BBQ Sauce",Dinner,108.0,Grams,181,4.77,14.27,20.21,1.52,5.42,1.3,37.73,720.0
-2018-09-17,"Rice, White, Cooked",Dinner,58.0,Grams,75,0.12,1.38,16.58,0.3,,0.17,0.0,0.0
-2018-10-14,Hu Tieu Nam Vang,Breakfast,1.0,Serving,576,24.0,42.0,45.0,6.0,2.0,4.0,147.0,1845.0
-2018-10-14,Vanilla Sponge Cake (no Icing),Breakfast,2.0,Pieces,308,13.8,4.4,44.14,,,,,
-2018-10-14,Royal Shrimp Har Gow,Dinner,407.0,Grams,773,28.49,16.28,109.89,6.11,20.35,12.21,81.4,1546.6
-2018-10-13,Shrimp Shaomai,Breakfast,411.0,Grams,435,0.0,33.83,72.49,0.0,19.33,0.0,48.33,3286.11
-2018-10-13,Real Pork Spring Roll,Lunch,200.0,Grams,410,12.8,14.4,59.2,5.6,,,20.8,
-2018-10-13,Shrimp Shaomai,Lunch,200.0,Grams,212,0.0,16.46,35.27,0.0,9.41,0.0,23.52,1599.8
-2018-10-13,Tofu,Lunch,100.0,Grams,81,4.8,8.1,1.9,0.1,0.0,1.2,0.0,7.0
-2018-10-13,Real Pork Spring Roll,Dinner,76.0,Grams,156,4.86,5.47,22.5,2.13,,,7.9,
-2018-10-13,Shrimp Shaomai,Dinner,50.0,Grams,53,0.0,4.12,8.82,0.0,2.35,0.0,5.88,399.77
-2018-10-13,"Fish Ball, Asian Style, Cooked",Dinner,98.0,Grams,74,0.78,12.5,4.41,0.2,1.37,0.0,70.56,637.0
-2018-10-13,Tofu,Dinner,100.0,Grams,81,4.8,8.1,1.9,0.1,0.0,1.2,0.0,7.0
-2018-10-13,Vietnamese Mi Hoanh Thanh (Wonton) Noodle Soup,Dinner,1.0,Serving,400,6.0,38.0,52.0,1.0,8.0,6.0,260.0,2032.0
-2018-10-13,Vanilla Sponge Cake (no Icing),Snacks,4.0,Pieces,616,26.16,8.8,88.28,,,,,
-2018-10-13,"Pudding, caramel",Snacks,150.0,Grams,188,3.15,5.1,34.65,2.1,30.15,0.15,18.0,105.0
-2018-10-12,"Pork Chop, Center Loin, Pan Fried",Breakfast,204.0,Grams,565,33.78,61.2,0.0,12.26,0.0,0.0,187.68,163.2
-2018-10-12,"Lotus Root, Cooked",Breakfast,70.0,Grams,46,0.5,1.11,11.21,0.1,0.35,2.17,0.0,31.5
-2018-10-12,"Egg, Fried, Large",Breakfast,45.0,Grams,88,6.89,6.13,0.41,1.93,0.37,0.0,205.65,91.8
-2018-10-12,"Spinach, Cooked",Breakfast,150.0,Grams,35,0.39,4.46,5.63,0.6,0.65,3.6,0.0,105.0
-2018-10-12,"Egg, Fried, Large",Lunch,45.0,Grams,88,6.89,6.13,0.41,1.93,0.37,0.0,205.65,91.8
-2018-10-12,"Pork Chop, Center Loin, Pan Fried",Lunch,204.0,Grams,565,33.78,61.2,0.0,12.26,0.0,0.0,187.68,163.2
-2018-10-12,"Lotus Root, Cooked",Lunch,100.0,Grams,66,0.7,1.58,16.2,0.2,0.5,3.1,0.0,45.0
-2018-10-12,"Spinach, Cooked",Lunch,150.0,Grams,35,0.39,4.46,5.63,0.6,0.65,3.6,0.0,105.0
-2018-10-12,Bún Bò Huế,Dinner,1.0,Serving,465,17.0,36.0,43.0,4.0,0.0,2.0,0.0,0.0
-2018-10-12,Cocacola coffee,Snacks,1.0,Serving,78,0.0,,5.0,0.0,5.0,,0.0,23.0
-2018-10-12,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-12,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-12,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
-2018-10-11,"Egg, Fried, Large",Breakfast,43.0,Grams,84,6.58,5.86,0.39,1.84,0.36,0.0,196.51,87.72
-2018-10-11,Chinese Wax Gourd Or Winter Melon,Breakfast,216.0,Grams,26,0.43,0.86,5.62,,,1.51,,3.89
-2018-10-11,Fish Balls,Breakfast,203.0,Grams,173,,40.6,2.3,,,,,
-2018-10-11,"Cabbage, Napa, Cooked",Breakfast,250.0,Grams,30,0.0,2.29,4.59,0.0,,,0.0,27.52
-2018-10-11,Com Tam Bi Cha Suon Nuong,Lunch,1.0,Serving,620,15.6,23.8,94.0,3.9,,,239.0,2160.0
-2018-10-11,"Cabbage, Napa, Cooked",Dinner,250.0,Grams,30,0.0,2.29,4.59,0.0,,,0.0,27.52
-2018-10-11,Chinese Wax Gourd Or Winter Melon,Dinner,216.0,Grams,26,0.43,0.86,5.62,,,1.51,,3.89
-2018-10-11,Fish Balls,Dinner,203.0,Grams,173,,40.6,2.3,,,,,
-2018-10-11,"Egg, Fried, Large",Dinner,43.0,Grams,84,6.58,5.86,0.39,1.84,0.36,0.0,196.51,87.72
-2018-10-11,"Peanuts, Dry Cooked, w/ Salt",Snacks,30.0,Grams,176,14.9,7.1,6.45,2.7,1.25,2.4,0.0,243.9
-2018-10-10,Trey Rors ( Snakehead Fish),Breakfast,200.0,Grams,244,8.0,42.0,2.0,,,,,
-2018-10-10,Cabbage Stir-fry,Breakfast,200.0,Grams,101,7.1,2.9,7.85,1.36,7.41,4.63,,66.5
-2018-10-10,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-10,"Spinach, Cooked",Breakfast,200.0,Grams,46,0.52,5.94,7.5,0.8,0.86,4.8,0.0,140.0
-2018-10-10,Trey Rors ( Snakehead Fish),Lunch,200.0,Grams,244,8.0,42.0,2.0,,,,,
-2018-10-10,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-10,Cabbage Stir-fry,Lunch,100.0,Grams,51,3.55,1.4,3.92,0.68,3.71,2.32,,33.25
-2018-10-10,"Spinach, Cooked",Lunch,150.0,Grams,35,0.39,4.46,5.63,0.6,0.65,3.6,0.0,105.0
-2018-10-10,Vietnamese Mi Hoanh Thanh (Wonton) Noodle Soup,Dinner,1.0,Serving,400,6.0,38.0,52.0,1.0,8.0,6.0,260.0,2032.0
-2018-10-10,"Peanuts, Dry Cooked, w/ Salt",Snacks,40.0,Grams,234,19.86,9.47,8.6,2.76,1.67,3.2,0.0,325.2
-2018-10-10,Oolong Tea Plus,Snacks,1.0,Serving,140,,,35.0,,,,,
-2018-10-10,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
-2018-10-09,"Vegetables, Green Bean, Stir Fry",Breakfast,75.0,Grams,43,0.0,1.42,8.7,0.0,1.9,0.95,0.0,14.24
-2018-10-09,"Egg, Fried, Large",Breakfast,44.0,Grams,86,6.74,5.99,0.4,1.89,0.37,0.0,201.8,89.76
-2018-10-09,"Chinese, Dish, Dumpling, Steamed, Shumai",Breakfast,197.0,Grams,221,5.63,15.1,28.14,1.88,0.0,1.88,48.78,771.12
-2018-10-09,"Vegetables, Green Bean, Stir Fry",Lunch,75.0,Grams,43,0.0,1.42,8.7,0.0,1.9,0.95,0.0,14.24
-2018-10-09,"Egg, Fried, Large",Lunch,44.0,Grams,86,6.74,5.99,0.4,1.89,0.37,0.0,201.8,89.76
-2018-10-09,"Chinese, Dish, Dumpling, Steamed, Shumai",Lunch,197.0,Grams,221,5.63,15.1,28.14,1.88,0.0,1.88,48.78,771.12
-2018-10-09,"Chicken, Thigh, w/ Skin, Cooked, Meat & Skin Only",Dinner,100.0,Grams,232,14.71,23.26,0.0,4.11,0.0,0.0,133.0,102.0
-2018-10-09,"Pork Chop, Cooked",Dinner,100.0,Grams,208,8.6,30.52,0.0,2.88,0.0,0.0,91.0,56.0
-2018-10-09,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
-2018-10-09,"Peanuts, Dry Cooked, w/ Salt",Snacks,30.0,Each,176,14.9,7.1,6.45,2.7,1.25,2.4,0.0,243.9
-2018-10-08,"Beef, Strips For Stir Fry",Breakfast,200.0,Grams,220,10.58,24.69,,,,,,
-2018-10-08,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Breakfast,50.0,Grams,14,0.0,1.79,1.79,0.0,1.79,1.79,0.0,1.79
-2018-10-08,"Carrots, Cooked",Breakfast,50.0,Grams,18,0.9,0.38,4.11,0.2,1.73,1.5,0.0,29.0
-2018-10-08,"Potatoes, Skinless, Cooked",Breakfast,50.0,Grams,43,0.5,0.86,10.1,0.1,0.43,0.9,0.0,2.5
-2018-10-08,Chinese Wax Gourd Or Winter Melon,Breakfast,50.0,Grams,6,0.1,0.2,1.3,,,0.35,,0.9
-2018-10-08,"Cabbage, Shredded, Cooked",Breakfast,50.0,Grams,12,0.3,0.64,2.75,0.0,1.4,0.95,0.0,4.0
-2018-10-08,"Egg, Hard Boiled",Lunch,186.0,Grams,290,18.6,22.32,3.72,7.44,3.72,0.0,788.64,230.64
-2018-10-08,"Rice, White, Cooked",Lunch,174.0,Grams,226,0.37,4.14,49.75,0.1,,0.52,0.0,0.0
-2018-10-08,"Pork, Pulled, w/ BBQ Sauce",Lunch,100.0,Grams,171,7.14,17.14,10.0,2.5,10.0,0.0,35.71,221.43
-2018-10-08,Bún Bò Huế,Dinner,1.0,Serving,465,17.0,36.0,43.0,4.0,0.0,2.0,0.0,0.0
-2018-10-08,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-08,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-08,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
-2018-10-08,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-21,"Soup, Vietnamese, Pho",Breakfast,1.0,Serving,415,8.75,6.25,69.5,,,6.25,,
-2018-10-21,Bánh mỳ nhân kem sữa Otto,Breakfast,66.0,Grams,304,22.73,15.4,3.67,11.0,2.2,0.73,0.0,1.1
-2018-10-21,Royal Shrimp Har Gow,Dinner,463.0,Grams,880,32.41,18.52,125.1,6.95,23.15,13.89,92.6,1759.4
-2018-10-21,"Nuts, Peanuts, Dry Roasted",Snacks,10.0,Grams,57,5.0,2.5,1.79,0.71,0.71,0.71,0.0,67.86
-2018-10-21,"Nuts, Peanuts, Dry Roasted",Snacks,10.0,Grams,57,5.0,2.5,1.79,0.71,0.71,0.71,0.0,67.86
-2018-10-20,Xuc Xich Bo,Breakfast,175.0,Grams,292,13.42,21.0,22.75,,,,68.8,
-2018-10-20,Ramen Noodles,Breakfast,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
-2018-10-20,"Egg, Hard Boiled",Lunch,237.0,Grams,370,23.7,28.44,4.74,9.48,4.74,0.0,1004.88,293.88
-2018-10-20,Bánh Canh Cua,Dinner,1.0,Serving,379,8.4,21.4,,54.3,,2.19,,
-2018-10-20,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
-2018-10-20,"Nuts, Peanuts, Dry Roasted",Snacks,20.0,Grams,114,10.0,5.0,3.57,1.43,1.43,1.43,0.0,135.71
-2018-10-20,Moon cake,Snacks,0.5,Piece,105,1.0,0.5,23.5,0.25,13.5,0.5,0.0,7.5
-2018-10-20,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
-2018-10-19,Chicken Thighs Grilled,Breakfast,205.0,Grams,476,29.93,47.88,0.0,8.98,0.0,0.0,272.33,209.49
-2018-10-19,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Breakfast,70.0,Grams,20,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5
-2018-10-19,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-10-19,"Cabbage, Napa, Cooked",Breakfast,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
-2018-10-19,Chicken Thighs Grilled,Lunch,200.0,Grams,464,29.2,46.72,0.0,8.76,0.0,0.0,265.69,204.38
-2018-10-19,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Lunch,100.0,Grams,29,0.0,3.57,3.57,0.0,3.57,3.57,0.0,3.57
-2018-10-19,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-19,"Cabbage, Napa, Cooked",Lunch,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
-2018-10-19,"Nuts, Peanuts, Dry Roasted",Snacks,20.0,Grams,114,10.0,5.0,3.57,1.43,1.43,1.43,0.0,135.71
-2018-10-19,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
-2018-10-19,Xuc Xich Bo,Snacks,80.0,Grams,134,6.14,9.6,10.4,,,,31.12,
-2018-10-19,Bánh quế cosy chocolate,Snacks,0.5,Serving,229,7.55,4.25,36.1,4.0,15.9,1.55,1.1,65.5
-2018-10-19,Prawn Crackers,Snacks,3.0,Servings,300,12.0,3.0,42.0,4.5,0.0,3.0,0.0,720.0
-2018-10-18,"Pork Chop, Cooked",Breakfast,210.0,Grams,437,18.6,64.9,0.0,6.5,0.0,0.0,191.1,117.6
-2018-10-18,Okra,Breakfast,75.0,Grams,23,0.8,1.5,5.27,0.2,0.9,2.4,0.0,6.0
-2018-10-18,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-10-18,"Pork Chop, Cooked",Lunch,200.0,Grams,416,17.2,61.4,0.0,5.76,0.0,0.0,182.0,112.0
-2018-10-18,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-18,Okra,Lunch,100.0,Grams,31,0.1,2.0,7.3,0.2,1.2,3.2,0.0,8.0
-2018-10-18,"Octopus, Cooked",Dinner,75.0,Grams,123,1.56,22.36,3.3,0.34,0.0,0.0,72.0,345.0
-2018-10-18,Bánh mỳ nhân kem sữa Otto,Dinner,100.0,Grams,460,34.44,23.33,5.56,16.67,3.33,1.11,0.0,1.53
-2018-10-18,"Peanuts, Dry Cooked, w/ Salt",Snacks,20.0,Grams,117,9.93,4.74,4.3,1.38,0.84,1.6,0.0,162.6
-2018-10-18,Xuc Xich Bo,Snacks,120.0,Grams,200,9.2,14.4,15.6,,,,46.68,
-2018-10-18,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
-2018-10-18,Oolong Tea Plus,Snacks,1.0,Serving,140,,,35.0,,,,,
-2018-10-17,"Beef, Stir-Fry Strips, Untrimmed",Breakfast,168.0,Grams,225,5.4,45.36,0.0,1.68,0.0,0.0,90.72,63.84
-2018-10-17,"Egg, Fried, Large",Breakfast,42.0,Grams,82,6.43,5.72,0.38,1.8,0.35,0.0,191.94,85.68
-2018-10-17,"Carrots, Cooked",Breakfast,52.0,Grams,18,0.9,0.4,4.27,0.2,1.79,1.56,0.0,30.16
-2018-10-17,"Tea, Iced, Sweet, w/o Lemon",Breakfast,0.25,Liter,74,0.0,0.0,19.2,0.0,19.2,0.0,0.0,0.0
-2018-10-17,Chinese Wax Gourd Or Winter Melon,Breakfast,300.0,Grams,36,0.6,1.2,7.8,,,2.1,,5.4
-2018-10-17,Cafe Sữa Đá,Breakfast,1.0,Serving,250,,,,,,,,
-2018-10-17,"Beef, Stir-Fry Strips, Untrimmed",Lunch,200.0,Grams,268,6.0,54.0,0.0,2.0,0.0,0.0,108.0,76.0
-2018-10-17,"Carrots, Cooked",Lunch,30.0,Grams,11,0.5,0.23,2.47,0.1,1.3,0.9,0.0,17.4
-2018-10-17,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-17,Chinese Wax Gourd Or Winter Melon,Lunch,170.0,Grams,20,0.34,0.68,4.42,,,1.19,,3.6
-2018-10-17,Prawn Crackers,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
-2018-10-17,Xuc Xich Bo,Snacks,160.0,Grams,267,12.27,19.2,20.8,,,,62.24,
-2018-10-17,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-17,Bánh mỳ nhân kem sữa Otto,Snacks,100.0,Grams,460,34.44,23.33,5.56,16.67,3.33,1.11,0.0,1.53
-2018-10-16,"Sausage, Bratwurst, Pork, Cooked",Breakfast,205.0,Grams,683,59.82,28.13,5.84,20.48,0.0,0.0,151.7,1734.3
-2018-10-16,"Green Beans, Cooked",Breakfast,118.0,Grams,41,0.33,2.23,9.3,0.8,4.28,3.78,0.0,1.18
-2018-10-16,"Egg, Fried, Large",Breakfast,47.0,Grams,92,7.2,6.4,0.42,2.2,0.39,0.0,214.79,95.88
-2018-10-16,"Sausage, Bratwurst, Pork, Cooked",Lunch,205.0,Grams,683,59.82,28.13,5.84,20.48,0.0,0.0,151.7,1734.3
-2018-10-16,"Green Beans, Cooked",Lunch,118.0,Grams,41,0.33,2.23,9.3,0.8,4.28,3.78,0.0,1.18
-2018-10-16,"Egg, Fried, Large",Lunch,47.0,Grams,92,7.2,6.4,0.42,2.2,0.39,0.0,214.79,95.88
-2018-10-16,"Peanuts, Dry Cooked, w/ Salt",Snacks,20.0,Grams,117,9.93,4.74,4.3,1.38,0.84,1.6,0.0,162.6
-2018-10-16,Xuc Xich Bo,Snacks,75.0,Grams,125,5.75,9.0,9.75,,,,29.18,
-2018-10-16,Vietnamese Mi Hoanh Thanh (Wonton) Noodle Soup,Snacks,1.0,Serving,400,6.0,38.0,52.0,1.0,8.0,6.0,260.0,2032.0
-2018-10-16,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
-2018-10-15,"Pork Chop, Center Loin, Cooked",Breakfast,198.0,Grams,414,21.9,50.71,0.0,6.95,0.0,0.0,166.32,108.9
-2018-10-15,Okra,Breakfast,104.0,Grams,32,0.1,2.8,7.31,0.2,1.25,3.33,0.0,8.32
-2018-10-15,"Egg, Fried, Large",Breakfast,47.0,Grams,92,7.2,6.4,0.42,2.2,0.39,0.0,214.79,95.88
-2018-10-15,"Pumpkin, Mashed, Cooked",Breakfast,200.0,Grams,40,0.14,1.44,9.8,0.6,2.4,2.2,0.0,2.0
-2018-10-15,"Pork Chop, Center Loin, Cooked",Lunch,198.0,Grams,414,21.9,50.71,0.0,6.95,0.0,0.0,166.32,108.9
-2018-10-15,Okra,Lunch,104.0,Grams,32,0.1,2.8,7.31,0.2,1.25,3.33,0.0,8.32
-2018-10-15,"Pumpkin, Mashed, Cooked",Lunch,200.0,Grams,40,0.14,1.44,9.8,0.6,2.4,2.2,0.0,2.0
-2018-10-15,"Egg, Fried, Large",Lunch,47.0,Grams,92,7.2,6.4,0.42,2.2,0.39,0.0,214.79,95.88
-2018-10-15,Snack Tôm 20g,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
-2018-10-15,"Peanuts, Dry Cooked, w/ Salt",Snacks,20.0,Grams,117,9.93,4.74,4.3,1.38,0.84,1.6,0.0,162.6
-2018-09-09,"Beef, Stew",Breakfast,1.0,Serving,250,11.0,15.0,22.0,5.0,3.0,2.0,45.0,1300.0
-2018-09-09,Ramen Noodles,Breakfast,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
-2018-09-09,"Ice Cream, Chocolate, Rich",Breakfast,123.0,Grams,314,20.89,5.81,25.52,12.76,21.34,1.11,73.8,70.11
-2018-09-09,Ramen Noodles,Lunch,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
-2018-09-09,"Beef, Strips For Stir Fry",Lunch,50.0,Grams,55,2.65,6.17,,,,,,
-2018-09-09,Hu Tieu Nam Vang,Dinner,1.0,Serving,576,24.0,42.0,45.0,6.0,2.0,4.0,147.0,1845.0
-2018-09-07,Cafe Sữa Đá,Breakfast,1.0,Serving,250,,,,,,,,
-2018-09-07,Vermicelli Rice Noodles,Breakfast,50.0,Grams,154,0.23,0.54,54.15,0.8,0.8,,,0.4
-2018-09-07,"Fish Balls, Steamed",Breakfast,200.0,Grams,148,2.0,24.0,12.0,,0.0,,,1500.0
-2018-09-07,Bánh Giò,Breakfast,1.0,Piece,216,7.1,9.3,28.5,,,,,
-2018-09-06,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Breakfast,204.0,Grams,251,14.28,20.4,10.2,6.12,6.12,2.4,83.64,122.4
-2018-09-06,"Green Beans, Cooked",Breakfast,73.0,Grams,26,0.2,1.38,5.75,0.5,2.65,2.34,0.0,0.73
-2018-09-06,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-09-06,"Spinach, Baby, Boiled in Unsalted Water",Breakfast,250.0,Grams,50,2.5,7.5,0.0,0.0,0.0,2.5,0.0,105.0
-2018-09-06,"Spinach, Baby, Boiled in Unsalted Water",Lunch,250.0,Grams,50,2.5,7.5,0.0,0.0,0.0,2.5,0.0,105.0
-2018-09-06,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-09-06,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Lunch,270.0,Grams,332,18.9,27.0,13.5,8.1,8.1,2.7,110.7,162.0
-2018-09-06,"Green Beans, Cooked",Lunch,50.0,Grams,18,0.14,0.95,3.94,0.3,1.82,1.6,0.0,0.5
-2018-09-06,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Dinner,204.0,Grams,251,14.28,20.4,10.2,6.12,6.12,2.4,83.64,122.4
-2018-09-06,"Ice Cream, Chocolate, Rich",Snacks,180.0,Grams,459,30.56,8.5,37.35,18.67,31.23,1.62,108.0,102.6
-2018-09-05,Chicken Thighs Grilled,Breakfast,123.0,Grams,286,17.96,28.73,0.0,5.39,0.0,0.0,163.4,125.69
-2018-09-05,"Broccoli, Chopped, Cooked",Breakfast,64.0,Grams,22,0.26,1.52,4.6,0.4,0.89,2.11,0.0,26.24
-2018-09-05,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-09-05,"Spinach, Cooked",Breakfast,2.0,Cups,83,0.94,10.69,13.5,0.14,1.55,8.64,0.0,252.0
-2018-09-05,Chicken Thighs Grilled,Lunch,150.0,Grams,348,21.9,35.4,0.0,6.57,0.0,0.0,199.27,153.28
-2018-09-05,"Broccoli, Chopped, Cooked",Lunch,50.0,Grams,18,0.21,1.19,3.59,0.4,0.7,1.65,0.0,20.5
-2018-09-05,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-09-05,"Spinach, Cooked",Lunch,2.0,Cups,83,0.94,10.69,13.5,0.14,1.55,8.64,0.0,252.0
-2018-09-05,White Chai Tow Kway (Teochew Carrot Cake),Dinner,1.0,Serving,466,24.0,11.0,51.0,,,,,
-2018-09-05,Banana,Snacks,125.0,Grams,119,0.38,1.5,29.0,0.13,26.13,1.38,,1.25
-2018-09-04,Banana,Breakfast,111.0,Grams,105,0.34,1.33,25.75,0.12,23.2,1.23,,1.11
-2018-09-04,"Snakehead (Channa arga), Raw ",Breakfast,212.0,Grams,182,1.7,38.58,0.64,,,,,182.32
-2018-09-04,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-09-04,Okra,Breakfast,50.0,Grams,16,0.5,1.0,3.52,0.1,0.6,1.6,0.0,4.0
-2018-09-04,Okra,Lunch,50.0,Grams,16,0.5,1.0,3.52,0.1,0.6,1.6,0.0,4.0
-2018-09-04,"Egg, Fried, Large",Lunch,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-09-04,"Snakehead (Channa arga), Raw ",Lunch,150.0,Grams,129,1.2,27.3,0.45,,,,,129.0
-2018-09-04,Okra,Dinner,60.0,Grams,19,0.6,1.2,4.22,0.1,0.72,1.92,0.0,4.8
-2018-09-04,"Egg, Fried, Large",Dinner,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-09-04,"Snakehead (Channa arga), Raw ",Dinner,60.0,Grams,52,0.48,10.92,0.18,,,,,51.6
-2018-09-04,Cá nục xốt cà,Dinner,300.0,Grams,429,19.48,38.96,19.48,9.74,3.9,,136.36,1324.68
-2018-09-01,Shrimp Shaomai,Breakfast,200.0,Grams,212,0.0,16.46,35.27,0.0,9.41,0.0,23.52,1599.8
-2018-08-31,"Pork Chop, Sirloin, Broiled",Breakfast,150.0,Grams,312,12.9,45.78,0.0,4.32,0.0,0.0,136.5,84.0
-2018-08-31,"Egg, Fried, Large",Breakfast,46.0,Grams,90,7.4,6.27,0.41,1.97,0.38,0.0,210.22,93.84
-2018-08-31,Boiled Water Spinach,Breakfast,100.0,Grams,15,0.7,1.7,0.4,0.53,0.2,2.3,,47.0
-2018-08-31,"Milk, Condensed, Sweetened",Breakfast,50.0,Milliliters,207,5.62,5.11,35.13,3.54,35.13,0.0,21.96,82.2
-2018-08-31,"Pork Chop, Sirloin, Broiled",Lunch,150.0,Grams,312,12.9,45.78,0.0,4.32,0.0,0.0,136.5,84.0
-2018-08-31,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-08-31,Boiled Water Spinach,Lunch,100.0,Grams,15,0.7,1.7,0.4,0.53,0.2,2.3,,47.0
-2018-08-31,Hủ Tiếu Thịt Heo,Dinner,1.0,Serving,361,12.5,14.4,47.8,,,1.23,,
-2018-08-31,"Tofu, Firm",Dinner,100.0,Grams,84,4.4,8.9,2.3,0.5,0.3,0.8,0.0,4.0
-2018-08-30,"Beef, Stir-Fry Strips, Untrimmed",Breakfast,202.0,Grams,271,6.6,54.54,0.0,2.2,0.0,0.0,109.8,76.76
-2018-08-30,Okra,Breakfast,110.0,Grams,34,0.11,2.2,7.73,0.2,1.32,3.52,0.0,8.8
-2018-08-30,"Egg, Fried, Large",Breakfast,57.0,Grams,112,8.73,7.76,0.51,2.45,0.47,0.0,260.49,116.28
-2018-08-30,"Pumpkin, Mashed, Cooked",Breakfast,230.0,Grams,46,0.16,1.66,11.27,0.7,2.35,2.53,0.0,2.3
-2018-08-30,"Milk, Condensed, Sweetened",Breakfast,50.0,Milliliters,207,5.62,5.11,35.13,3.54,35.13,0.0,21.96,82.2
-2018-08-30,"Egg, Fried, Large",Lunch,57.0,Grams,112,8.73,7.76,0.51,2.45,0.47,0.0,260.49,116.28
-2018-08-30,"Beef, Stir-Fry Strips, Untrimmed",Lunch,150.0,Grams,201,4.5,40.5,0.0,1.5,0.0,0.0,81.0,57.0
-2018-08-30,Okra,Lunch,60.0,Grams,19,0.6,1.2,4.22,0.1,0.72,1.92,0.0,4.8
-2018-08-30,"Egg, Fried, Large",Dinner,57.0,Grams,112,8.73,7.76,0.51,2.45,0.47,0.0,260.49,116.28
-2018-08-30,Okra,Dinner,60.0,Grams,19,0.6,1.2,4.22,0.1,0.72,1.92,0.0,4.8
-2018-08-30,"Beef, Stir-Fry Strips, Untrimmed",Dinner,150.0,Grams,201,4.5,40.5,0.0,1.5,0.0,0.0,81.0,57.0
-2018-08-30,"Pumpkin, Mashed, Cooked",Dinner,122.0,Grams,24,0.9,0.88,5.98,0.4,1.24,1.34,0.0,1.22
-2018-08-30,Okra,Snacks,60.0,Grams,19,0.6,1.2,4.22,0.1,0.72,1.92,0.0,4.8
-2018-08-30,"Beef, Stir-Fry Strips, Untrimmed",Snacks,150.0,Grams,201,4.5,40.5,0.0,1.5,0.0,0.0,81.0,57.0
-2018-08-30,"Pumpkin, Mashed, Cooked",Snacks,250.0,Grams,50,0.18,1.8,12.25,0.8,2.55,2.75,0.0,2.5
-2018-08-29,"Fish Ball, Asian Style, Cooked",Breakfast,153.0,Grams,116,1.22,18.82,6.88,0.31,2.14,0.0,110.16,994.5
-2018-08-29,"Green Beans, Cooked",Breakfast,50.0,Grams,18,0.14,0.95,3.94,0.3,1.82,1.6,0.0,0.5
-2018-08-29,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-08-29,"Soup, Egg Drop, Restaurant",Breakfast,3.0,Cups,195,4.41,8.39,31.2,1.16,0.65,2.89,166.29,2675.1
-2018-08-29,"Green Beans, Cooked",Lunch,50.0,Grams,18,0.14,0.95,3.94,0.3,1.82,1.6,0.0,0.5
-2018-08-29,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-08-29,"Fish Ball, Asian Style, Cooked",Lunch,200.0,Grams,152,1.6,24.6,9.0,0.4,2.8,0.0,144.0,1300.0
-2018-08-29,"Soup, Egg Drop, Restaurant",Lunch,3.0,Cups,195,4.41,8.39,31.2,1.16,0.65,2.89,166.29,2675.1
-2018-08-29,"Soup, Egg Drop, Restaurant",Dinner,3.0,Cups,195,4.41,8.39,31.2,1.16,0.65,2.89,166.29,2675.1
-2018-08-29,"Egg, Fried, Large",Dinner,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-05,Chicken Thighs Grilled,Breakfast,202.0,Grams,469,29.49,47.18,0.0,8.85,0.0,0.0,268.35,206.42
-2018-10-05,Okra,Breakfast,157.0,Grams,49,0.16,3.14,11.4,0.3,1.88,5.2,0.0,12.56
-2018-10-05,"Egg, Fried, Large",Breakfast,46.0,Grams,90,7.4,6.27,0.41,1.97,0.38,0.0,210.22,93.84
-2018-10-05,"Soup, Egg Drop, Restaurant",Breakfast,3.0,Cups,195,4.41,8.39,31.2,1.16,0.65,2.89,166.29,2675.1
-2018-10-05,Chicken Thighs Grilled,Lunch,202.0,Grams,469,29.49,47.18,0.0,8.85,0.0,0.0,268.35,206.42
-2018-10-05,"Soup, Egg Drop, Restaurant",Lunch,2.0,Cups,130,2.94,5.59,20.68,0.77,0.43,1.93,110.86,1783.4
-2018-10-05,"Egg, Fried, Large",Lunch,46.0,Grams,90,7.4,6.27,0.41,1.97,0.38,0.0,210.22,93.84
-2018-10-05,Okra,Lunch,50.0,Grams,16,0.5,1.0,3.52,0.1,0.6,1.6,0.0,4.0
-2018-10-05,"Fish Ball, Asian Style, Cooked",Dinner,150.0,Grams,114,1.2,18.45,6.75,0.3,2.1,0.0,108.0,975.0
-2018-10-05,Orion custas egg cream,Snacks,1.0,Piece,110,6.0,1.0,12.0,4.0,6.0,1.0,30.0,35.0
-2018-10-05,Xuc Xich Bo,Snacks,125.0,Grams,209,9.59,15.0,16.25,,,,48.63,
-2018-10-04,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Breakfast,203.0,Grams,250,14.21,20.3,10.15,6.9,6.9,2.3,83.23,121.8
-2018-10-04,"Egg, Fried, Large",Breakfast,51.0,Grams,100,7.81,6.95,0.46,2.19,0.42,0.0,233.7,104.4
-2018-10-04,Chinese Wax Gourd Or Winter Melon,Breakfast,272.0,Grams,33,0.54,1.9,7.7,,,1.9,,4.9
-2018-10-04,"Cabbage, Napa, Cooked",Breakfast,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
-2018-10-04,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Lunch,203.0,Grams,250,14.21,20.3,10.15,6.9,6.9,2.3,83.23,121.8
-2018-10-04,"Egg, Fried, Large",Lunch,51.0,Grams,100,7.81,6.95,0.46,2.19,0.42,0.0,233.7,104.4
-2018-10-04,Chinese Wax Gourd Or Winter Melon,Lunch,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
-2018-10-04,"Cabbage, Napa, Cooked",Lunch,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
-2018-10-04,"Peanuts, Dry Cooked, w/ Salt",Snacks,50.0,Grams,293,24.83,11.84,10.76,3.44,2.9,4.0,0.0,406.5
-2018-10-03,"Broccoli, Chopped, Cooked",Breakfast,108.0,Grams,38,0.44,2.57,7.75,0.8,1.5,3.56,0.0,44.28
-2018-10-03,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-03,"Flour, All Purpose",Breakfast,14.0,Grams,51,0.0,1.4,10.73,0.0,0.47,0.0,0.0,0.0
-2018-10-03,Trey Rors ( Snakehead Fish),Breakfast,190.0,Grams,232,7.6,39.9,1.9,,,,,
-2018-10-03,"Cabbage, Shredded, Cooked",Breakfast,150.0,Grams,35,0.9,1.91,8.27,0.0,4.18,2.85,0.0,12.0
-2018-10-03,Trey Rors ( Snakehead Fish),Lunch,190.0,Grams,232,7.6,39.9,1.9,,,,,
-2018-10-03,"Flour, All Purpose",Lunch,14.0,Grams,51,0.0,1.4,10.73,0.0,0.47,0.0,0.0,0.0
-2018-10-03,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-03,"Broccoli, Chopped, Cooked",Lunch,50.0,Grams,18,0.21,1.19,3.59,0.4,0.7,1.65,0.0,20.5
-2018-10-03,"Cabbage, Shredded, Cooked",Lunch,150.0,Grams,35,0.9,1.91,8.27,0.0,4.18,2.85,0.0,12.0
-2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-09-21,Xuc Xich Bo,Snacks,105.0,Grams,175,8.5,12.6,13.65,,,,40.84,
+2018-09-22,"Cabbage, Shredded, Cooked",Breakfast,200.0,Grams,46,0.12,2.54,11.2,0.0,5.58,3.8,0.0,16.0
+2018-09-22,"Creamer, Italian Sweet Cream",Breakfast,1.0,Tablespoon,35,1.48,0.0,4.93,0.0,4.93,0.0,0.0,14.79
+2018-09-22,Shrimp Shaomai,Breakfast,209.0,Grams,221,0.0,17.2,36.86,0.0,9.83,0.0,24.57,1671.4
+2018-09-22,"Egg, Hard Boiled",Lunch,108.0,Grams,168,10.8,12.96,2.16,4.32,2.16,0.0,457.92,133.92
+2018-09-22,"Pulled Pork, in BBQ Sauce",Lunch,154.0,Grams,259,6.8,20.35,28.82,2.16,7.73,1.86,53.81,1026.67
+2018-09-22,"Rice, White, Cooked",Lunch,150.0,Grams,195,0.32,3.57,42.88,0.9,,0.45,0.0,0.0
+2018-09-22,Shrimp Shaomai,Dinner,231.0,Grams,244,0.0,19.1,40.74,0.0,10.86,0.0,27.16,1846.94
+2018-09-22,Mooncake,Snacks,1.0,Piece,540,26.0,8.0,70.0,,,0.0,,
+2018-09-23,Cafe Sữa Đá,Breakfast,1.0,Serving,250,,,,,,,,
+2018-09-23,Hủ Tiếu,Breakfast,1.0,Serving,326,,,,,,,,
+2018-09-23,Cháo lòng,Lunch,1.0,Serving,412,13.5,30.8,41.7,,,0.84,,
+2018-09-23,Har Gow,Dinner,12.0,Pieces,528,12.0,36.0,60.0,12.0,0.0,0.0,252.0,1440.0
+2018-10-01,Chinese Wax Gourd Or Winter Melon,Breakfast,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
+2018-10-01,"Egg, Fried, Large",Breakfast,54.0,Grams,106,8.27,7.35,0.49,2.32,0.45,0.0,246.78,110.16
+2018-10-01,"Leeks, Cooked",Breakfast,51.0,Grams,16,0.1,0.41,3.89,0.1,1.8,0.51,0.0,5.1
+2018-10-01,"Pork Chop, Center Loin, Pan Fried",Breakfast,200.0,Grams,554,33.12,59.82,0.0,12.2,0.0,0.0,184.0,160.0
+2018-10-01,Chinese Wax Gourd Or Winter Melon,Lunch,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
+2018-10-01,"Egg, Fried, Large",Lunch,54.0,Grams,106,8.27,7.35,0.49,2.32,0.45,0.0,246.78,110.16
+2018-10-01,"Leeks, Cooked",Lunch,51.0,Grams,16,0.1,0.41,3.89,0.1,1.8,0.51,0.0,5.1
+2018-10-01,"Pork Chop, Center Loin, Pan Fried",Lunch,200.0,Grams,554,33.12,59.82,0.0,12.2,0.0,0.0,184.0,160.0
+2018-10-01,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
+2018-10-01,Oolong Tea Plus,Snacks,0.75,Serving,105,,,26.25,,,,,
+2018-10-01,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
 2018-10-02,Chicken Thighs Grilled,Breakfast,202.0,Grams,469,29.49,47.18,0.0,8.85,0.0,0.0,268.35,206.42
-2018-10-02,Okra,Breakfast,87.0,Grams,27,0.9,1.74,6.12,0.2,1.4,2.78,0.0,6.96
 2018-10-02,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-10-02,Okra,Breakfast,87.0,Grams,27,0.9,1.74,6.12,0.2,1.4,2.78,0.0,6.96
 2018-10-02,"Soup, Egg Drop, Restaurant",Breakfast,2.0,Cups,130,2.94,5.59,20.68,0.77,0.43,1.93,110.86,1783.4
-2018-10-02,Okra,Lunch,87.0,Grams,27,0.9,1.74,6.12,0.2,1.4,2.78,0.0,6.96
 2018-10-02,Chicken Thighs Grilled,Lunch,202.0,Grams,469,29.49,47.18,0.0,8.85,0.0,0.0,268.35,206.42
 2018-10-02,"Egg, Fried, Large",Lunch,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-10-02,Okra,Lunch,87.0,Grams,27,0.9,1.74,6.12,0.2,1.4,2.78,0.0,6.96
 2018-10-02,"Soup, Egg Drop, Restaurant",Lunch,2.0,Cups,130,2.94,5.59,20.68,0.77,0.43,1.93,110.86,1783.4
 2018-10-02,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
 2018-10-02,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
 2018-10-02,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
 2018-10-02,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-01,"Pork Chop, Center Loin, Pan Fried",Breakfast,200.0,Grams,554,33.12,59.82,0.0,12.2,0.0,0.0,184.0,160.0
-2018-10-01,"Leeks, Cooked",Breakfast,51.0,Grams,16,0.1,0.41,3.89,0.1,1.8,0.51,0.0,5.1
-2018-10-01,"Egg, Fried, Large",Breakfast,54.0,Grams,106,8.27,7.35,0.49,2.32,0.45,0.0,246.78,110.16
-2018-10-01,Chinese Wax Gourd Or Winter Melon,Breakfast,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
-2018-10-01,"Leeks, Cooked",Lunch,51.0,Grams,16,0.1,0.41,3.89,0.1,1.8,0.51,0.0,5.1
-2018-10-01,"Pork Chop, Center Loin, Pan Fried",Lunch,200.0,Grams,554,33.12,59.82,0.0,12.2,0.0,0.0,184.0,160.0
-2018-10-01,"Egg, Fried, Large",Lunch,54.0,Grams,106,8.27,7.35,0.49,2.32,0.45,0.0,246.78,110.16
-2018-10-01,Chinese Wax Gourd Or Winter Melon,Lunch,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
-2018-10-01,Oolong Tea Plus,Snacks,0.75,Serving,105,,,26.25,,,,,
-2018-10-01,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
-2018-10-01,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
-2018-10-27,Com Tam Bi Cha Suon Nuong,Breakfast,1.0,Serving,620,15.6,23.8,94.0,3.9,,,239.0,2160.0
-2018-10-27,Creme Brulee,Breakfast,1.0,Each,343,22.0,3.0,27.0,13.0,,0.0,,27.0
-2018-10-27,"Burger, Cheeseburger",Breakfast,1.0,Each,666,33.15,35.7,53.55,15.3,10.2,2.55,86.7,1938.0
-2018-10-27,Milk Tea With Boba,Breakfast,300.0,Milliliters,252,,,,,,,,
-2018-10-27,"Pastry, Choux, Commercial, Baked",Snacks,2.0,Pieces,550,42.4,10.4,31.8,18.2,1.6,0.2,192.0,528.0
-2018-10-26,Banana,Breakfast,87.0,Grams,83,0.26,1.4,20.18,0.9,18.19,0.96,,0.87
-2018-10-26,Trey Rors ( Snakehead Fish),Breakfast,196.0,Grams,239,7.84,41.16,1.96,,,,,
-2018-10-26,Cabbage Stir-fry,Breakfast,106.0,Grams,54,3.76,1.11,4.16,0.72,3.93,2.46,,35.25
-2018-10-26,"Egg, Fried, Large",Breakfast,46.0,Grams,90,7.4,6.27,0.41,1.97,0.38,0.0,210.22,93.84
-2018-10-26,"Nuts, Peanuts, Dry Roasted",Breakfast,9.0,Grams,51,4.5,2.25,1.61,0.64,0.64,0.64,0.0,61.7
-2018-10-26,Chicken Thighs Grilled,Lunch,50.0,Grams,116,7.3,11.68,0.0,2.19,0.0,0.0,66.42,51.9
-2018-10-26,Porridge,Lunch,150.0,Grams,90,1.3,2.43,16.4,0.2,0.23,1.91,,0.0
-2018-10-26,Vermicelli Rice Noodles,Dinner,200.0,Grams,615,0.92,2.15,216.62,0.31,0.31,,,0.15
-2018-10-26,"Beef, Stir-Fry Strips, Untrimmed",Dinner,200.0,Grams,268,6.0,54.0,0.0,2.0,0.0,0.0,108.0,76.0
-2018-10-26,"Nuts, Peanuts, Dry Roasted",Snacks,50.0,Grams,286,25.0,12.5,8.93,3.57,3.57,3.57,0.0,339.29
-2018-10-26,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
-2018-10-25,Chicken Thighs Grilled,Breakfast,170.0,Grams,395,24.82,39.71,0.0,7.45,0.0,0.0,225.84,173.72
-2018-10-25,Cabbage Stir-fry,Breakfast,70.0,Grams,36,2.49,0.73,2.75,0.48,2.59,1.62,,23.28
-2018-10-25,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-25,"Nuts, Peanuts, Dry Roasted",Breakfast,10.0,Grams,57,5.0,2.5,1.79,0.71,0.71,0.71,0.0,67.86
-2018-10-25,Chinese Wax Gourd Or Winter Melon,Breakfast,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
-2018-10-25,Chicken Thighs Grilled,Lunch,170.0,Grams,395,24.82,39.71,0.0,7.45,0.0,0.0,225.84,173.72
-2018-10-25,Cabbage Stir-fry,Lunch,70.0,Grams,36,2.49,0.73,2.75,0.48,2.59,1.62,,23.28
-2018-10-25,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
-2018-10-25,Chinese Wax Gourd Or Winter Melon,Lunch,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
-2018-10-25,Banana,Snacks,56.0,Grams,53,0.17,0.67,12.99,0.6,11.71,0.62,,0.56
-2018-10-25,"Peanuts, Dry Cooked, w/ Salt",Snacks,60.0,Grams,351,29.8,14.21,12.91,4.13,2.51,4.8,0.0,487.8
-2018-10-24,"Broccoli, Chopped, Cooked",Breakfast,94.0,Grams,33,0.39,2.24,6.75,0.7,1.31,3.1,0.0,38.54
-2018-10-24,"Pork, Pulled, w/ BBQ Sauce",Breakfast,208.0,Grams,357,14.86,35.66,20.8,5.2,20.8,0.0,74.29,460.57
-2018-10-24,"Egg, Hard Boiled",Breakfast,149.0,Grams,232,14.9,17.88,2.98,5.96,2.98,0.0,631.76,184.76
-2018-10-24,"Pork, Pulled, w/ BBQ Sauce",Lunch,200.0,Grams,343,14.29,34.29,20.0,5.0,20.0,0.0,71.43,442.86
-2018-10-24,"Broccoli, Chopped, Cooked",Lunch,100.0,Grams,35,0.41,2.38,7.18,0.7,1.39,3.3,0.0,41.0
-2018-10-24,"Egg, Hard Boiled",Lunch,150.0,Grams,234,15.0,18.0,3.0,6.0,3.0,0.0,636.0,186.0
-2018-10-24,Oolong Tea Plus,Snacks,1.0,Serving,140,,,35.0,,,,,
-2018-10-24,"Nuts, Peanuts, Dry Roasted",Snacks,30.0,Grams,171,15.0,7.5,5.36,2.14,2.14,2.14,0.0,203.57
-2018-10-23,"Pulled Pork, in BBQ Sauce",Breakfast,107.0,Grams,180,4.73,14.14,20.2,1.5,5.37,1.29,37.39,713.34
-2018-10-23,"Rice, White, Cooked",Breakfast,164.0,Grams,213,0.34,3.9,46.89,0.9,,0.49,0.0,0.0
-2018-10-23,Okra,Breakfast,94.0,Grams,29,0.9,1.88,6.61,0.2,1.13,3.1,0.0,7.52
-2018-10-23,"Egg, Hard Boiled",Breakfast,153.0,Grams,239,15.3,18.36,3.6,6.12,3.6,0.0,648.72,189.72
-2018-10-23,"Spinach, Cooked",Breakfast,2.0,Cups,83,0.94,10.69,13.5,0.14,1.55,8.64,0.0,252.0
-2018-10-23,"Pulled Pork, in BBQ Sauce",Lunch,200.0,Grams,336,8.84,26.43,37.43,2.81,10.4,2.41,69.88,1333.34
-2018-10-23,Okra,Lunch,100.0,Grams,31,0.1,2.0,7.3,0.2,1.2,3.2,0.0,8.0
-2018-10-23,"Egg, Hard Boiled",Lunch,150.0,Grams,234,15.0,18.0,3.0,6.0,3.0,0.0,636.0,186.0
-2018-10-23,"Spinach, Cooked",Lunch,1.0,Cup,41,0.47,5.35,6.75,0.7,0.77,4.32,0.0,126.0
-2018-10-23,"Gatorade, Fruit Punch",Dinner,868.0,Milliliters,196,0.0,0.0,53.81,0.0,51.36,0.0,0.0,391.34
-2018-10-23,"Nuts, Peanuts, Dry Roasted",Snacks,40.0,Grams,229,20.0,10.0,7.14,2.86,2.86,2.86,0.0,271.43
+2018-10-03,"Broccoli, Chopped, Cooked",Breakfast,108.0,Grams,38,0.44,2.57,7.75,0.8,1.5,3.56,0.0,44.28
+2018-10-03,"Cabbage, Shredded, Cooked",Breakfast,150.0,Grams,35,0.9,1.91,8.27,0.0,4.18,2.85,0.0,12.0
+2018-10-03,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-03,"Flour, All Purpose",Breakfast,14.0,Grams,51,0.0,1.4,10.73,0.0,0.47,0.0,0.0,0.0
+2018-10-03,Trey Rors ( Snakehead Fish),Breakfast,190.0,Grams,232,7.6,39.9,1.9,,,,,
+2018-10-03,"Broccoli, Chopped, Cooked",Lunch,50.0,Grams,18,0.21,1.19,3.59,0.4,0.7,1.65,0.0,20.5
+2018-10-03,"Cabbage, Shredded, Cooked",Lunch,150.0,Grams,35,0.9,1.91,8.27,0.0,4.18,2.85,0.0,12.0
+2018-10-03,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-03,"Flour, All Purpose",Lunch,14.0,Grams,51,0.0,1.4,10.73,0.0,0.47,0.0,0.0,0.0
+2018-10-03,Trey Rors ( Snakehead Fish),Lunch,190.0,Grams,232,7.6,39.9,1.9,,,,,
+2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-03,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-04,"Cabbage, Napa, Cooked",Breakfast,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
+2018-10-04,Chinese Wax Gourd Or Winter Melon,Breakfast,272.0,Grams,33,0.54,1.9,7.7,,,1.9,,4.9
+2018-10-04,"Egg, Fried, Large",Breakfast,51.0,Grams,100,7.81,6.95,0.46,2.19,0.42,0.0,233.7,104.4
+2018-10-04,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Breakfast,203.0,Grams,250,14.21,20.3,10.15,6.9,6.9,2.3,83.23,121.8
+2018-10-04,"Cabbage, Napa, Cooked",Lunch,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
+2018-10-04,Chinese Wax Gourd Or Winter Melon,Lunch,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
+2018-10-04,"Egg, Fried, Large",Lunch,51.0,Grams,100,7.81,6.95,0.46,2.19,0.42,0.0,233.7,104.4
+2018-10-04,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Lunch,203.0,Grams,250,14.21,20.3,10.15,6.9,6.9,2.3,83.23,121.8
+2018-10-04,"Peanuts, Dry Cooked, w/ Salt",Snacks,50.0,Grams,293,24.83,11.84,10.76,3.44,2.9,4.0,0.0,406.5
+2018-10-05,Chicken Thighs Grilled,Breakfast,202.0,Grams,469,29.49,47.18,0.0,8.85,0.0,0.0,268.35,206.42
+2018-10-05,"Egg, Fried, Large",Breakfast,46.0,Grams,90,7.4,6.27,0.41,1.97,0.38,0.0,210.22,93.84
+2018-10-05,Okra,Breakfast,157.0,Grams,49,0.16,3.14,11.4,0.3,1.88,5.2,0.0,12.56
+2018-10-05,"Soup, Egg Drop, Restaurant",Breakfast,3.0,Cups,195,4.41,8.39,31.2,1.16,0.65,2.89,166.29,2675.1
+2018-10-05,Chicken Thighs Grilled,Lunch,202.0,Grams,469,29.49,47.18,0.0,8.85,0.0,0.0,268.35,206.42
+2018-10-05,"Egg, Fried, Large",Lunch,46.0,Grams,90,7.4,6.27,0.41,1.97,0.38,0.0,210.22,93.84
+2018-10-05,Okra,Lunch,50.0,Grams,16,0.5,1.0,3.52,0.1,0.6,1.6,0.0,4.0
+2018-10-05,"Soup, Egg Drop, Restaurant",Lunch,2.0,Cups,130,2.94,5.59,20.68,0.77,0.43,1.93,110.86,1783.4
+2018-10-05,"Fish Ball, Asian Style, Cooked",Dinner,150.0,Grams,114,1.2,18.45,6.75,0.3,2.1,0.0,108.0,975.0
+2018-10-05,Orion custas egg cream,Snacks,1.0,Piece,110,6.0,1.0,12.0,4.0,6.0,1.0,30.0,35.0
+2018-10-05,Xuc Xich Bo,Snacks,125.0,Grams,209,9.59,15.0,16.25,,,,48.63,
+2018-10-08,"Beef, Strips For Stir Fry",Breakfast,200.0,Grams,220,10.58,24.69,,,,,,
+2018-10-08,"Cabbage, Shredded, Cooked",Breakfast,50.0,Grams,12,0.3,0.64,2.75,0.0,1.4,0.95,0.0,4.0
+2018-10-08,"Carrots, Cooked",Breakfast,50.0,Grams,18,0.9,0.38,4.11,0.2,1.73,1.5,0.0,29.0
+2018-10-08,Chinese Wax Gourd Or Winter Melon,Breakfast,50.0,Grams,6,0.1,0.2,1.3,,,0.35,,0.9
+2018-10-08,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Breakfast,50.0,Grams,14,0.0,1.79,1.79,0.0,1.79,1.79,0.0,1.79
+2018-10-08,"Potatoes, Skinless, Cooked",Breakfast,50.0,Grams,43,0.5,0.86,10.1,0.1,0.43,0.9,0.0,2.5
+2018-10-08,"Egg, Hard Boiled",Lunch,186.0,Grams,290,18.6,22.32,3.72,7.44,3.72,0.0,788.64,230.64
+2018-10-08,"Pork, Pulled, w/ BBQ Sauce",Lunch,100.0,Grams,171,7.14,17.14,10.0,2.5,10.0,0.0,35.71,221.43
+2018-10-08,"Rice, White, Cooked",Lunch,174.0,Grams,226,0.37,4.14,49.75,0.1,,0.52,0.0,0.0
+2018-10-08,Bún Bò Huế,Dinner,1.0,Serving,465,17.0,36.0,43.0,4.0,0.0,2.0,0.0,0.0
+2018-10-08,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
+2018-10-08,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-08,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-08,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-09,"Chinese, Dish, Dumpling, Steamed, Shumai",Breakfast,197.0,Grams,221,5.63,15.1,28.14,1.88,0.0,1.88,48.78,771.12
+2018-10-09,"Egg, Fried, Large",Breakfast,44.0,Grams,86,6.74,5.99,0.4,1.89,0.37,0.0,201.8,89.76
+2018-10-09,"Vegetables, Green Bean, Stir Fry",Breakfast,75.0,Grams,43,0.0,1.42,8.7,0.0,1.9,0.95,0.0,14.24
+2018-10-09,"Chinese, Dish, Dumpling, Steamed, Shumai",Lunch,197.0,Grams,221,5.63,15.1,28.14,1.88,0.0,1.88,48.78,771.12
+2018-10-09,"Egg, Fried, Large",Lunch,44.0,Grams,86,6.74,5.99,0.4,1.89,0.37,0.0,201.8,89.76
+2018-10-09,"Vegetables, Green Bean, Stir Fry",Lunch,75.0,Grams,43,0.0,1.42,8.7,0.0,1.9,0.95,0.0,14.24
+2018-10-09,"Chicken, Thigh, w/ Skin, Cooked, Meat & Skin Only",Dinner,100.0,Grams,232,14.71,23.26,0.0,4.11,0.0,0.0,133.0,102.0
+2018-10-09,"Pork Chop, Cooked",Dinner,100.0,Grams,208,8.6,30.52,0.0,2.88,0.0,0.0,91.0,56.0
+2018-10-09,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
+2018-10-09,"Peanuts, Dry Cooked, w/ Salt",Snacks,30.0,Each,176,14.9,7.1,6.45,2.7,1.25,2.4,0.0,243.9
+2018-10-10,Cabbage Stir-fry,Breakfast,200.0,Grams,101,7.1,2.9,7.85,1.36,7.41,4.63,,66.5
+2018-10-10,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-10,"Spinach, Cooked",Breakfast,200.0,Grams,46,0.52,5.94,7.5,0.8,0.86,4.8,0.0,140.0
+2018-10-10,Trey Rors ( Snakehead Fish),Breakfast,200.0,Grams,244,8.0,42.0,2.0,,,,,
+2018-10-10,Cabbage Stir-fry,Lunch,100.0,Grams,51,3.55,1.4,3.92,0.68,3.71,2.32,,33.25
+2018-10-10,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-10,"Spinach, Cooked",Lunch,150.0,Grams,35,0.39,4.46,5.63,0.6,0.65,3.6,0.0,105.0
+2018-10-10,Trey Rors ( Snakehead Fish),Lunch,200.0,Grams,244,8.0,42.0,2.0,,,,,
+2018-10-10,Vietnamese Mi Hoanh Thanh (Wonton) Noodle Soup,Dinner,1.0,Serving,400,6.0,38.0,52.0,1.0,8.0,6.0,260.0,2032.0
+2018-10-10,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
+2018-10-10,Oolong Tea Plus,Snacks,1.0,Serving,140,,,35.0,,,,,
+2018-10-10,"Peanuts, Dry Cooked, w/ Salt",Snacks,40.0,Grams,234,19.86,9.47,8.6,2.76,1.67,3.2,0.0,325.2
+2018-10-11,"Cabbage, Napa, Cooked",Breakfast,250.0,Grams,30,0.0,2.29,4.59,0.0,,,0.0,27.52
+2018-10-11,Chinese Wax Gourd Or Winter Melon,Breakfast,216.0,Grams,26,0.43,0.86,5.62,,,1.51,,3.89
+2018-10-11,"Egg, Fried, Large",Breakfast,43.0,Grams,84,6.58,5.86,0.39,1.84,0.36,0.0,196.51,87.72
+2018-10-11,Fish Balls,Breakfast,203.0,Grams,173,,40.6,2.3,,,,,
+2018-10-11,Com Tam Bi Cha Suon Nuong,Lunch,1.0,Serving,620,15.6,23.8,94.0,3.9,,,239.0,2160.0
+2018-10-11,"Cabbage, Napa, Cooked",Dinner,250.0,Grams,30,0.0,2.29,4.59,0.0,,,0.0,27.52
+2018-10-11,Chinese Wax Gourd Or Winter Melon,Dinner,216.0,Grams,26,0.43,0.86,5.62,,,1.51,,3.89
+2018-10-11,"Egg, Fried, Large",Dinner,43.0,Grams,84,6.58,5.86,0.39,1.84,0.36,0.0,196.51,87.72
+2018-10-11,Fish Balls,Dinner,203.0,Grams,173,,40.6,2.3,,,,,
+2018-10-11,"Peanuts, Dry Cooked, w/ Salt",Snacks,30.0,Grams,176,14.9,7.1,6.45,2.7,1.25,2.4,0.0,243.9
+2018-10-12,"Egg, Fried, Large",Breakfast,45.0,Grams,88,6.89,6.13,0.41,1.93,0.37,0.0,205.65,91.8
+2018-10-12,"Lotus Root, Cooked",Breakfast,70.0,Grams,46,0.5,1.11,11.21,0.1,0.35,2.17,0.0,31.5
+2018-10-12,"Pork Chop, Center Loin, Pan Fried",Breakfast,204.0,Grams,565,33.78,61.2,0.0,12.26,0.0,0.0,187.68,163.2
+2018-10-12,"Spinach, Cooked",Breakfast,150.0,Grams,35,0.39,4.46,5.63,0.6,0.65,3.6,0.0,105.0
+2018-10-12,"Egg, Fried, Large",Lunch,45.0,Grams,88,6.89,6.13,0.41,1.93,0.37,0.0,205.65,91.8
+2018-10-12,"Lotus Root, Cooked",Lunch,100.0,Grams,66,0.7,1.58,16.2,0.2,0.5,3.1,0.0,45.0
+2018-10-12,"Pork Chop, Center Loin, Pan Fried",Lunch,204.0,Grams,565,33.78,61.2,0.0,12.26,0.0,0.0,187.68,163.2
+2018-10-12,"Spinach, Cooked",Lunch,150.0,Grams,35,0.39,4.46,5.63,0.6,0.65,3.6,0.0,105.0
+2018-10-12,Bún Bò Huế,Dinner,1.0,Serving,465,17.0,36.0,43.0,4.0,0.0,2.0,0.0,0.0
+2018-10-12,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
+2018-10-12,Cocacola coffee,Snacks,1.0,Serving,78,0.0,,5.0,0.0,5.0,,0.0,23.0
+2018-10-12,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-12,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-13,Shrimp Shaomai,Breakfast,411.0,Grams,435,0.0,33.83,72.49,0.0,19.33,0.0,48.33,3286.11
+2018-10-13,Real Pork Spring Roll,Lunch,200.0,Grams,410,12.8,14.4,59.2,5.6,,,20.8,
+2018-10-13,Shrimp Shaomai,Lunch,200.0,Grams,212,0.0,16.46,35.27,0.0,9.41,0.0,23.52,1599.8
+2018-10-13,Tofu,Lunch,100.0,Grams,81,4.8,8.1,1.9,0.1,0.0,1.2,0.0,7.0
+2018-10-13,"Fish Ball, Asian Style, Cooked",Dinner,98.0,Grams,74,0.78,12.5,4.41,0.2,1.37,0.0,70.56,637.0
+2018-10-13,Real Pork Spring Roll,Dinner,76.0,Grams,156,4.86,5.47,22.5,2.13,,,7.9,
+2018-10-13,Shrimp Shaomai,Dinner,50.0,Grams,53,0.0,4.12,8.82,0.0,2.35,0.0,5.88,399.77
+2018-10-13,Tofu,Dinner,100.0,Grams,81,4.8,8.1,1.9,0.1,0.0,1.2,0.0,7.0
+2018-10-13,Vietnamese Mi Hoanh Thanh (Wonton) Noodle Soup,Dinner,1.0,Serving,400,6.0,38.0,52.0,1.0,8.0,6.0,260.0,2032.0
+2018-10-13,"Pudding, caramel",Snacks,150.0,Grams,188,3.15,5.1,34.65,2.1,30.15,0.15,18.0,105.0
+2018-10-13,Vanilla Sponge Cake (no Icing),Snacks,4.0,Pieces,616,26.16,8.8,88.28,,,,,
+2018-10-14,Hu Tieu Nam Vang,Breakfast,1.0,Serving,576,24.0,42.0,45.0,6.0,2.0,4.0,147.0,1845.0
+2018-10-14,Vanilla Sponge Cake (no Icing),Breakfast,2.0,Pieces,308,13.8,4.4,44.14,,,,,
+2018-10-14,Royal Shrimp Har Gow,Dinner,407.0,Grams,773,28.49,16.28,109.89,6.11,20.35,12.21,81.4,1546.6
+2018-10-15,"Egg, Fried, Large",Breakfast,47.0,Grams,92,7.2,6.4,0.42,2.2,0.39,0.0,214.79,95.88
+2018-10-15,Okra,Breakfast,104.0,Grams,32,0.1,2.8,7.31,0.2,1.25,3.33,0.0,8.32
+2018-10-15,"Pork Chop, Center Loin, Cooked",Breakfast,198.0,Grams,414,21.9,50.71,0.0,6.95,0.0,0.0,166.32,108.9
+2018-10-15,"Pumpkin, Mashed, Cooked",Breakfast,200.0,Grams,40,0.14,1.44,9.8,0.6,2.4,2.2,0.0,2.0
+2018-10-15,"Egg, Fried, Large",Lunch,47.0,Grams,92,7.2,6.4,0.42,2.2,0.39,0.0,214.79,95.88
+2018-10-15,Okra,Lunch,104.0,Grams,32,0.1,2.8,7.31,0.2,1.25,3.33,0.0,8.32
+2018-10-15,"Pork Chop, Center Loin, Cooked",Lunch,198.0,Grams,414,21.9,50.71,0.0,6.95,0.0,0.0,166.32,108.9
+2018-10-15,"Pumpkin, Mashed, Cooked",Lunch,200.0,Grams,40,0.14,1.44,9.8,0.6,2.4,2.2,0.0,2.0
+2018-10-15,"Peanuts, Dry Cooked, w/ Salt",Snacks,20.0,Grams,117,9.93,4.74,4.3,1.38,0.84,1.6,0.0,162.6
+2018-10-15,Snack Tôm 20g,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
+2018-10-16,"Egg, Fried, Large",Breakfast,47.0,Grams,92,7.2,6.4,0.42,2.2,0.39,0.0,214.79,95.88
+2018-10-16,"Green Beans, Cooked",Breakfast,118.0,Grams,41,0.33,2.23,9.3,0.8,4.28,3.78,0.0,1.18
+2018-10-16,"Sausage, Bratwurst, Pork, Cooked",Breakfast,205.0,Grams,683,59.82,28.13,5.84,20.48,0.0,0.0,151.7,1734.3
+2018-10-16,"Egg, Fried, Large",Lunch,47.0,Grams,92,7.2,6.4,0.42,2.2,0.39,0.0,214.79,95.88
+2018-10-16,"Green Beans, Cooked",Lunch,118.0,Grams,41,0.33,2.23,9.3,0.8,4.28,3.78,0.0,1.18
+2018-10-16,"Sausage, Bratwurst, Pork, Cooked",Lunch,205.0,Grams,683,59.82,28.13,5.84,20.48,0.0,0.0,151.7,1734.3
+2018-10-16,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
+2018-10-16,"Peanuts, Dry Cooked, w/ Salt",Snacks,20.0,Grams,117,9.93,4.74,4.3,1.38,0.84,1.6,0.0,162.6
+2018-10-16,Vietnamese Mi Hoanh Thanh (Wonton) Noodle Soup,Snacks,1.0,Serving,400,6.0,38.0,52.0,1.0,8.0,6.0,260.0,2032.0
+2018-10-16,Xuc Xich Bo,Snacks,75.0,Grams,125,5.75,9.0,9.75,,,,29.18,
+2018-10-17,"Beef, Stir-Fry Strips, Untrimmed",Breakfast,168.0,Grams,225,5.4,45.36,0.0,1.68,0.0,0.0,90.72,63.84
+2018-10-17,Cafe Sữa Đá,Breakfast,1.0,Serving,250,,,,,,,,
+2018-10-17,"Carrots, Cooked",Breakfast,52.0,Grams,18,0.9,0.4,4.27,0.2,1.79,1.56,0.0,30.16
+2018-10-17,Chinese Wax Gourd Or Winter Melon,Breakfast,300.0,Grams,36,0.6,1.2,7.8,,,2.1,,5.4
+2018-10-17,"Egg, Fried, Large",Breakfast,42.0,Grams,82,6.43,5.72,0.38,1.8,0.35,0.0,191.94,85.68
+2018-10-17,"Tea, Iced, Sweet, w/o Lemon",Breakfast,0.25,Liter,74,0.0,0.0,19.2,0.0,19.2,0.0,0.0,0.0
+2018-10-17,"Beef, Stir-Fry Strips, Untrimmed",Lunch,200.0,Grams,268,6.0,54.0,0.0,2.0,0.0,0.0,108.0,76.0
+2018-10-17,"Carrots, Cooked",Lunch,30.0,Grams,11,0.5,0.23,2.47,0.1,1.3,0.9,0.0,17.4
+2018-10-17,Chinese Wax Gourd Or Winter Melon,Lunch,170.0,Grams,20,0.34,0.68,4.42,,,1.19,,3.6
+2018-10-17,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-17,Bánh mỳ nhân kem sữa Otto,Snacks,100.0,Grams,460,34.44,23.33,5.56,16.67,3.33,1.11,0.0,1.53
+2018-10-17,"Peanuts, Dry Cooked, w/ Salt",Snacks,10.0,Grams,59,4.97,2.37,2.15,0.69,0.42,0.8,0.0,81.3
+2018-10-17,Prawn Crackers,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
+2018-10-17,Xuc Xich Bo,Snacks,160.0,Grams,267,12.27,19.2,20.8,,,,62.24,
+2018-10-18,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-10-18,Okra,Breakfast,75.0,Grams,23,0.8,1.5,5.27,0.2,0.9,2.4,0.0,6.0
+2018-10-18,"Pork Chop, Cooked",Breakfast,210.0,Grams,437,18.6,64.9,0.0,6.5,0.0,0.0,191.1,117.6
+2018-10-18,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-18,Okra,Lunch,100.0,Grams,31,0.1,2.0,7.3,0.2,1.2,3.2,0.0,8.0
+2018-10-18,"Pork Chop, Cooked",Lunch,200.0,Grams,416,17.2,61.4,0.0,5.76,0.0,0.0,182.0,112.0
+2018-10-18,Bánh mỳ nhân kem sữa Otto,Dinner,100.0,Grams,460,34.44,23.33,5.56,16.67,3.33,1.11,0.0,1.53
+2018-10-18,"Octopus, Cooked",Dinner,75.0,Grams,123,1.56,22.36,3.3,0.34,0.0,0.0,72.0,345.0
+2018-10-18,Oolong Tea Plus,Snacks,1.0,Serving,140,,,35.0,,,,,
+2018-10-18,"Peanuts, Dry Cooked, w/ Salt",Snacks,20.0,Grams,117,9.93,4.74,4.3,1.38,0.84,1.6,0.0,162.6
+2018-10-18,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
+2018-10-18,Xuc Xich Bo,Snacks,120.0,Grams,200,9.2,14.4,15.6,,,,46.68,
+2018-10-19,"Cabbage, Napa, Cooked",Breakfast,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
+2018-10-19,Chicken Thighs Grilled,Breakfast,205.0,Grams,476,29.93,47.88,0.0,8.98,0.0,0.0,272.33,209.49
+2018-10-19,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-10-19,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Breakfast,70.0,Grams,20,0.0,2.5,2.5,0.0,2.5,2.5,0.0,2.5
+2018-10-19,"Cabbage, Napa, Cooked",Lunch,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
+2018-10-19,Chicken Thighs Grilled,Lunch,200.0,Grams,464,29.2,46.72,0.0,8.76,0.0,0.0,265.69,204.38
+2018-10-19,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-19,"Garlic, Chives (Chinese Chives/Kow Choi/Nira/Buchu)",Lunch,100.0,Grams,29,0.0,3.57,3.57,0.0,3.57,3.57,0.0,3.57
+2018-10-19,Bánh quế cosy chocolate,Snacks,0.5,Serving,229,7.55,4.25,36.1,4.0,15.9,1.55,1.1,65.5
+2018-10-19,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
+2018-10-19,"Nuts, Peanuts, Dry Roasted",Snacks,20.0,Grams,114,10.0,5.0,3.57,1.43,1.43,1.43,0.0,135.71
+2018-10-19,Prawn Crackers,Snacks,3.0,Servings,300,12.0,3.0,42.0,4.5,0.0,3.0,0.0,720.0
+2018-10-19,Xuc Xich Bo,Snacks,80.0,Grams,134,6.14,9.6,10.4,,,,31.12,
+2018-10-20,Ramen Noodles,Breakfast,1.0,Package,380,14.0,10.0,52.0,7.0,2.0,2.0,0.0,1660.0
+2018-10-20,Xuc Xich Bo,Breakfast,175.0,Grams,292,13.42,21.0,22.75,,,,68.8,
+2018-10-20,"Egg, Hard Boiled",Lunch,237.0,Grams,370,23.7,28.44,4.74,9.48,4.74,0.0,1004.88,293.88
+2018-10-20,Bánh Canh Cua,Dinner,1.0,Serving,379,8.4,21.4,,54.3,,2.19,,
+2018-10-20,Bánh mỳ nhân kem sữa Otto,Snacks,62.0,Grams,285,21.36,14.47,3.44,10.33,2.7,0.69,0.0,0.95
+2018-10-20,Moon cake,Snacks,0.5,Piece,105,1.0,0.5,23.5,0.25,13.5,0.5,0.0,7.5
+2018-10-20,"Nuts, Peanuts, Dry Roasted",Snacks,20.0,Grams,114,10.0,5.0,3.57,1.43,1.43,1.43,0.0,135.71
+2018-10-20,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
+2018-10-21,Bánh mỳ nhân kem sữa Otto,Breakfast,66.0,Grams,304,22.73,15.4,3.67,11.0,2.2,0.73,0.0,1.1
+2018-10-21,"Soup, Vietnamese, Pho",Breakfast,1.0,Serving,415,8.75,6.25,69.5,,,6.25,,
+2018-10-21,Royal Shrimp Har Gow,Dinner,463.0,Grams,880,32.41,18.52,125.1,6.95,23.15,13.89,92.6,1759.4
+2018-10-21,"Nuts, Peanuts, Dry Roasted",Snacks,10.0,Grams,57,5.0,2.5,1.79,0.71,0.71,0.71,0.0,67.86
+2018-10-21,"Nuts, Peanuts, Dry Roasted",Snacks,10.0,Grams,57,5.0,2.5,1.79,0.71,0.71,0.71,0.0,67.86
 2018-10-22,Boiled Water Spinach,Breakfast,85.0,Grams,13,0.6,1.45,0.34,0.45,0.17,1.96,,39.95
 2018-10-22,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
-2018-10-22,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Breakfast,294.0,Grams,362,20.58,29.4,14.7,8.82,8.82,2.94,120.54,176.4
 2018-10-22,"Egg, Hard Boiled",Breakfast,53.0,Grams,83,5.3,6.36,1.6,2.12,1.6,0.0,224.72,65.72
+2018-10-22,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Breakfast,294.0,Grams,362,20.58,29.4,14.7,8.82,8.82,2.94,120.54,176.4
 2018-10-22,Boiled Water Spinach,Lunch,85.0,Grams,13,0.6,1.45,0.34,0.45,0.17,1.96,,39.95
 2018-10-22,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
 2018-10-22,"Meatballs, Pork and Beef, in Tomato Sauce, Homemade",Lunch,294.0,Grams,362,20.58,29.4,14.7,8.82,8.82,2.94,120.54,176.4
 2018-10-22,"Spinach, Cooked",Lunch,150.0,Grams,35,0.39,4.46,5.63,0.6,0.65,3.6,0.0,105.0
 2018-10-22,"Nuts, Peanuts, Dry Roasted",Snacks,50.0,Grams,286,25.0,12.5,8.93,3.57,3.57,3.57,0.0,339.29
 2018-10-22,Xuc Xich Bo,Snacks,80.0,Grams,134,6.14,9.6,10.4,,,,31.12,
+2018-10-23,"Egg, Hard Boiled",Breakfast,153.0,Grams,239,15.3,18.36,3.6,6.12,3.6,0.0,648.72,189.72
+2018-10-23,Okra,Breakfast,94.0,Grams,29,0.9,1.88,6.61,0.2,1.13,3.1,0.0,7.52
+2018-10-23,"Pulled Pork, in BBQ Sauce",Breakfast,107.0,Grams,180,4.73,14.14,20.2,1.5,5.37,1.29,37.39,713.34
+2018-10-23,"Rice, White, Cooked",Breakfast,164.0,Grams,213,0.34,3.9,46.89,0.9,,0.49,0.0,0.0
+2018-10-23,"Spinach, Cooked",Breakfast,2.0,Cups,83,0.94,10.69,13.5,0.14,1.55,8.64,0.0,252.0
+2018-10-23,"Egg, Hard Boiled",Lunch,150.0,Grams,234,15.0,18.0,3.0,6.0,3.0,0.0,636.0,186.0
+2018-10-23,Okra,Lunch,100.0,Grams,31,0.1,2.0,7.3,0.2,1.2,3.2,0.0,8.0
+2018-10-23,"Pulled Pork, in BBQ Sauce",Lunch,200.0,Grams,336,8.84,26.43,37.43,2.81,10.4,2.41,69.88,1333.34
+2018-10-23,"Spinach, Cooked",Lunch,1.0,Cup,41,0.47,5.35,6.75,0.7,0.77,4.32,0.0,126.0
+2018-10-23,"Gatorade, Fruit Punch",Dinner,868.0,Milliliters,196,0.0,0.0,53.81,0.0,51.36,0.0,0.0,391.34
+2018-10-23,"Nuts, Peanuts, Dry Roasted",Snacks,40.0,Grams,229,20.0,10.0,7.14,2.86,2.86,2.86,0.0,271.43
+2018-10-24,"Broccoli, Chopped, Cooked",Breakfast,94.0,Grams,33,0.39,2.24,6.75,0.7,1.31,3.1,0.0,38.54
+2018-10-24,"Egg, Hard Boiled",Breakfast,149.0,Grams,232,14.9,17.88,2.98,5.96,2.98,0.0,631.76,184.76
+2018-10-24,"Pork, Pulled, w/ BBQ Sauce",Breakfast,208.0,Grams,357,14.86,35.66,20.8,5.2,20.8,0.0,74.29,460.57
+2018-10-24,"Broccoli, Chopped, Cooked",Lunch,100.0,Grams,35,0.41,2.38,7.18,0.7,1.39,3.3,0.0,41.0
+2018-10-24,"Egg, Hard Boiled",Lunch,150.0,Grams,234,15.0,18.0,3.0,6.0,3.0,0.0,636.0,186.0
+2018-10-24,"Pork, Pulled, w/ BBQ Sauce",Lunch,200.0,Grams,343,14.29,34.29,20.0,5.0,20.0,0.0,71.43,442.86
+2018-10-24,"Nuts, Peanuts, Dry Roasted",Snacks,30.0,Grams,171,15.0,7.5,5.36,2.14,2.14,2.14,0.0,203.57
+2018-10-24,Oolong Tea Plus,Snacks,1.0,Serving,140,,,35.0,,,,,
+2018-10-25,Cabbage Stir-fry,Breakfast,70.0,Grams,36,2.49,0.73,2.75,0.48,2.59,1.62,,23.28
+2018-10-25,Chicken Thighs Grilled,Breakfast,170.0,Grams,395,24.82,39.71,0.0,7.45,0.0,0.0,225.84,173.72
+2018-10-25,Chinese Wax Gourd Or Winter Melon,Breakfast,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
+2018-10-25,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-25,"Nuts, Peanuts, Dry Roasted",Breakfast,10.0,Grams,57,5.0,2.5,1.79,0.71,0.71,0.71,0.0,67.86
+2018-10-25,Cabbage Stir-fry,Lunch,70.0,Grams,36,2.49,0.73,2.75,0.48,2.59,1.62,,23.28
+2018-10-25,Chicken Thighs Grilled,Lunch,170.0,Grams,395,24.82,39.71,0.0,7.45,0.0,0.0,225.84,173.72
+2018-10-25,Chinese Wax Gourd Or Winter Melon,Lunch,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
+2018-10-25,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-25,Banana,Snacks,56.0,Grams,53,0.17,0.67,12.99,0.6,11.71,0.62,,0.56
+2018-10-25,"Peanuts, Dry Cooked, w/ Salt",Snacks,60.0,Grams,351,29.8,14.21,12.91,4.13,2.51,4.8,0.0,487.8
+2018-10-26,Banana,Breakfast,87.0,Grams,83,0.26,1.4,20.18,0.9,18.19,0.96,,0.87
+2018-10-26,Cabbage Stir-fry,Breakfast,106.0,Grams,54,3.76,1.11,4.16,0.72,3.93,2.46,,35.25
+2018-10-26,"Egg, Fried, Large",Breakfast,46.0,Grams,90,7.4,6.27,0.41,1.97,0.38,0.0,210.22,93.84
+2018-10-26,"Nuts, Peanuts, Dry Roasted",Breakfast,9.0,Grams,51,4.5,2.25,1.61,0.64,0.64,0.64,0.0,61.7
+2018-10-26,Trey Rors ( Snakehead Fish),Breakfast,196.0,Grams,239,7.84,41.16,1.96,,,,,
+2018-10-26,Chicken Thighs Grilled,Lunch,50.0,Grams,116,7.3,11.68,0.0,2.19,0.0,0.0,66.42,51.9
+2018-10-26,Porridge,Lunch,150.0,Grams,90,1.3,2.43,16.4,0.2,0.23,1.91,,0.0
+2018-10-26,"Beef, Stir-Fry Strips, Untrimmed",Dinner,200.0,Grams,268,6.0,54.0,0.0,2.0,0.0,0.0,108.0,76.0
+2018-10-26,Vermicelli Rice Noodles,Dinner,200.0,Grams,615,0.92,2.15,216.62,0.31,0.31,,,0.15
+2018-10-26,"Nuts, Peanuts, Dry Roasted",Snacks,50.0,Grams,286,25.0,12.5,8.93,3.57,3.57,3.57,0.0,339.29
+2018-10-26,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
+2018-10-27,"Burger, Cheeseburger",Breakfast,1.0,Each,666,33.15,35.7,53.55,15.3,10.2,2.55,86.7,1938.0
+2018-10-27,Com Tam Bi Cha Suon Nuong,Breakfast,1.0,Serving,620,15.6,23.8,94.0,3.9,,,239.0,2160.0
+2018-10-27,Creme Brulee,Breakfast,1.0,Each,343,22.0,3.0,27.0,13.0,,0.0,,27.0
+2018-10-27,Milk Tea With Boba,Breakfast,300.0,Milliliters,252,,,,,,,,
+2018-10-27,"Pastry, Choux, Commercial, Baked",Snacks,2.0,Pieces,550,42.4,10.4,31.8,18.2,1.6,0.2,192.0,528.0
+2018-10-29,Boiled Water Spinach,Breakfast,33.0,Grams,5,0.23,0.56,0.13,0.17,0.7,0.76,,15.51
+2018-10-29,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-10-29,"Nuts, Peanuts, Dry Roasted",Breakfast,13.0,Grams,74,6.5,3.25,2.32,0.93,0.93,0.93,0.0,88.21
+2018-10-29,"Pork Chop, Center Loin, Pan Fried",Breakfast,196.0,Grams,543,32.46,58.62,0.0,11.78,0.0,0.0,180.32,156.8
+2018-10-29,Boiled Water Spinach,Lunch,50.0,Grams,8,0.35,0.85,0.2,0.27,0.1,1.15,,23.5
+2018-10-29,"Egg, Fried, Large",Lunch,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-10-29,"Pork Chop, Center Loin, Pan Fried",Lunch,196.0,Grams,543,32.46,58.62,0.0,11.78,0.0,0.0,180.32,156.8
+2018-10-29,"Nuts, Peanuts, Dry Roasted",Snacks,30.0,Grams,171,15.0,7.5,5.36,2.14,2.14,2.14,0.0,203.57
+2018-10-29,Prawn Crackers,Snacks,3.0,Servings,300,12.0,3.0,42.0,4.5,0.0,3.0,0.0,720.0
+2018-10-30,"Beef, Stir-Fry Strips, Untrimmed",Breakfast,203.0,Grams,272,6.9,54.81,0.0,2.3,0.0,0.0,109.62,77.14
+2018-10-30,"Cabbage, Napa, Cooked",Breakfast,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
+2018-10-30,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-30,"Green Beans, Cooked",Breakfast,84.0,Grams,29,0.24,1.59,6.62,0.5,3.5,2.69,0.0,0.84
+2018-10-30,"Beef, Stir-Fry Strips, Untrimmed",Lunch,203.0,Grams,272,6.9,54.81,0.0,2.3,0.0,0.0,109.62,77.14
+2018-10-30,"Cabbage, Napa, Cooked",Lunch,200.0,Grams,24,0.0,1.83,3.67,0.0,,,0.0,22.2
+2018-10-30,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-30,"Green Beans, Cooked",Lunch,84.0,Grams,29,0.24,1.59,6.62,0.5,3.5,2.69,0.0,0.84
+2018-10-30,Banana,Snacks,90.0,Grams,86,0.27,1.8,20.88,0.9,18.81,0.99,,0.9
+2018-10-30,"Nuts, Peanuts, Dry Roasted",Snacks,20.0,Grams,114,10.0,5.0,3.57,1.43,1.43,1.43,0.0,135.71
+2018-10-30,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
+2018-10-31,"Chicken, Leg, w/ Skin, Cooked",Breakfast,202.0,Grams,469,27.19,52.44,0.0,7.51,0.0,0.0,185.84,175.74
+2018-10-31,Chinese Wax Gourd Or Winter Melon,Breakfast,200.0,Grams,24,0.4,0.8,5.2,,,1.4,,3.6
+2018-10-31,"Egg, Fried, Large",Breakfast,41.0,Grams,80,6.28,5.58,0.37,1.76,0.34,0.0,187.37,83.64
+2018-10-31,"Lotus Root, Cooked",Breakfast,110.0,Grams,73,0.8,1.74,17.62,0.2,0.55,3.41,0.0,49.5
+2018-10-31,"Chicken, Leg, w/ Skin, Cooked",Lunch,200.0,Grams,464,26.92,51.92,0.0,7.44,0.0,0.0,184.0,174.0
+2018-10-31,Chinese Wax Gourd Or Winter Melon,Lunch,150.0,Grams,18,0.3,0.6,3.9,,,1.5,,2.7
+2018-10-31,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-10-31,"Lotus Root, Cooked",Lunch,100.0,Grams,66,0.7,1.58,16.2,0.2,0.5,3.1,0.0,45.0
+2018-10-31,Vietnamese Mi Hoanh Thanh (Wonton) Noodle Soup,Dinner,1.0,Serving,400,6.0,38.0,52.0,1.0,8.0,6.0,260.0,2032.0
+2018-10-31,"Banana, Medium, 7"" - 7 7/8"" Long",Snacks,126.0,Grams,112,0.42,1.37,28.78,0.14,15.41,3.28,0.0,1.26
+2018-10-31,Cheese Wafer,Snacks,3.0,Servings,120,4.5,3.0,18.0,3.0,6.0,,,
+2018-10-31,"Nuts, Peanuts, Dry Roasted",Snacks,30.0,Grams,171,15.0,7.5,5.36,2.14,2.14,2.14,0.0,203.57
+2018-10-31,Prawn Crackers,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
+2018-11-01,"Broccoli, Chopped, Cooked",Breakfast,80.0,Grams,28,0.33,1.9,5.74,0.6,1.11,2.64,0.0,32.8
+2018-11-01,"Egg, Fried, Large",Breakfast,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-11-01,"Sausage, Bratwurst, Pork, Cooked",Breakfast,165.0,Grams,549,48.15,22.64,4.7,16.48,0.0,0.0,122.1,1395.9
+2018-11-01,"Shrimp, Breaded Fried",Breakfast,2.0,Each,36,1.84,3.21,1.72,0.31,0.0,0.6,26.55,51.6
+2018-11-01,"Broccoli, Chopped, Cooked",Lunch,80.0,Grams,28,0.33,1.9,5.74,0.6,1.11,2.64,0.0,32.8
+2018-11-01,"Egg, Fried, Large",Lunch,50.0,Grams,98,7.66,6.81,0.45,2.15,0.42,0.0,228.5,102.0
+2018-11-01,"Sausage, Bratwurst, Pork, Cooked",Lunch,165.0,Grams,549,48.15,22.64,4.7,16.48,0.0,0.0,122.1,1395.9
+2018-11-01,"Shrimp, Breaded Fried",Lunch,2.0,Each,36,1.84,3.21,1.72,0.31,0.0,0.6,26.55,51.6
+2018-11-01,Banana,Snacks,100.0,Grams,95,0.3,1.2,23.2,0.1,20.9,1.1,,1.0
+2018-11-01,Cafe Sữa Đá,Snacks,1.0,Serving,250,,,,,,,,
+2018-11-01,Cheese Wafer,Snacks,3.0,Servings,120,4.5,3.0,18.0,3.0,6.0,,,
+2018-11-01,Prawn Crackers,Snacks,2.0,Servings,200,8.0,2.0,28.0,3.0,0.0,2.0,0.0,480.0
+2018-11-02,Boiled Water Spinach,Breakfast,50.0,Grams,8,0.35,0.85,0.2,0.27,0.1,1.15,,23.5
+2018-11-02,"Chinese, Dish, Dumpling, Steamed, Shumai",Breakfast,333.0,Grams,374,9.51,25.37,47.57,3.17,0.0,3.17,82.46,1303.46
+2018-11-02,"Egg, Fried, Large",Breakfast,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-11-02,"Fish Ball, Asian Style, Cooked",Breakfast,100.0,Grams,76,0.8,12.3,4.5,0.2,1.4,0.0,72.0,650.0
+2018-11-02,"Nuts, Peanuts, Dry Roasted",Breakfast,10.0,Grams,57,5.0,2.5,1.79,0.71,0.71,0.71,0.0,67.86
+2018-11-02,"Spinach, Baby, Boiled in Unsalted Water",Breakfast,200.0,Grams,40,2.0,6.0,0.0,0.0,0.0,2.0,0.0,84.0
+2018-11-02,Boiled Water Spinach,Lunch,50.0,Grams,8,0.35,0.85,0.2,0.27,0.1,1.15,,23.5
+2018-11-02,"Chinese, Dish, Dumpling, Steamed, Shumai",Lunch,200.0,Grams,225,5.71,15.24,28.57,1.9,0.0,1.9,49.52,782.86
+2018-11-02,"Egg, Fried, Large",Lunch,48.0,Grams,94,7.35,6.54,0.43,2.6,0.4,0.0,219.36,97.92
+2018-11-02,"Fish Ball, Asian Style, Cooked",Lunch,100.0,Grams,76,0.8,12.3,4.5,0.2,1.4,0.0,72.0,650.0
+2018-11-02,"Spinach, Baby, Boiled in Unsalted Water",Lunch,200.0,Grams,40,2.0,6.0,0.0,0.0,0.0,2.0,0.0,84.0
+2018-11-02,Beer,Dinner,0.5,Liter,216,0.0,2.31,17.81,0.0,0.0,0.0,0.0,20.6
+2018-11-02,"Fish, Spanish Mackerel, Cooked",Dinner,100.0,Grams,158,6.32,23.59,0.0,1.8,0.0,0.0,73.0,66.0
+2018-11-02,Fried Rice,Dinner,200.0,Grams,367,9.17,6.35,64.2,1.41,3.53,0.71,0.0,606.7
+2018-11-02,"Pork Chop, Center Loin, Cooked",Dinner,100.0,Grams,209,11.6,25.61,0.0,3.51,0.0,0.0,84.0,55.0
+2018-11-02,Prawn Crackers,Snacks,1.0,Serving,100,4.0,1.0,14.0,1.5,0.0,1.0,0.0,240.0
+2018-11-03,Bun Thit Nuong,Breakfast,1.0,Serving,500,17.0,22.0,33.0,3.0,0.0,,36.0,900.0
