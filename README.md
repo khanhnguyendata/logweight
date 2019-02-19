@@ -13,3 +13,5 @@ and other related visualizations.
 You can read about the result of this project in my writeup on [Medium](https://link.medium.com/9KJRGuzsqU). 
 All codes are contained in the Juypter notebook ([analysis.ipynb](analysis.ipynb)) in the root folder.
 Input data are found in the [data](data) subfolder, and output visualizations in the [viz](viz) subfolder.
+
+For any question or feedback, please don't hesitate to contact me on Medium!
