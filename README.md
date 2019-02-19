@@ -6,8 +6,8 @@ or lose weight on a given date.
 The parameters of the model (the regression coefficients and the decision boundary) are also used to give simple, 
 actionable numbers that I could use for my weight loss journey.
 
-2. Build this machine learning model from scratch without using 3rd-party libraries (aside from numpy and pandas), 
-including the algorithm (batch gradient ascent), k-fold cross validation, performance metrics, ROC curve, 
+2. Build this machine learning model from scratch without using 3rd-party libraries (aside from numpy and pandas).
+This includes the model algorithm (batch gradient ascent), k-fold cross validation, performance metrics, ROC curve, 
 and other related visualizations.
 
 You can read about the result of this project in my writeup on [Medium](https://link.medium.com/9KJRGuzsqU). 
