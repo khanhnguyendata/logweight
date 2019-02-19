@@ -1,6 +1,6 @@
 # Analyze my weight loss journey using machine learning
 
-This is the project of analyzing my weight loss journey during 2018. The 2 main goals for the projects are:
+This is the project of analyzing my weight loss journey during 2018. The 2 main goals for the project are:
 1. Build a machine learning model (namely regularized logistic regression) to classify whether I would gain weight
 or lose weight on a given date. 
 The parameters of the model (the regression coefficients and the decision boundary) are also used to give simple, 
