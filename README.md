@@ -8,7 +8,8 @@ actionable numbers that I could use for my weight loss journey.
 
 2. Build this machine learning model from scratch without using 3rd-party libraries (aside from numpy and pandas).
 This includes the model algorithm (batch gradient ascent), k-fold cross validation, performance metrics, ROC curve, 
-and other related visualizations.
+and other related visualizations. This turned out to be not as intimidating as I'd thought.
+In fact, the core algorithm for gradient ascent can be done in 3 lines of code!
 
 You can read about the result of this project in my writeup on [Medium](https://link.medium.com/9KJRGuzsqU). 
 All codes are contained in the Juypter notebook ([analysis.ipynb](analysis.ipynb)) in the root folder.
